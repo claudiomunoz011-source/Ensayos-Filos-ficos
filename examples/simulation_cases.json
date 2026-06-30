@@ -1,0 +1,20 @@
+[
+  {
+    "id": "sim-poveda-estandar",
+    "estudiante": "Carlos Muñoz",
+    "curso": "3° Medio A",
+    "colegio": "Liceo San Pedro Poveda",
+    "tipo": "Estándar",
+    "ensayo": "En este ensayo se analiza la etica de Kant. El filosofo aleman havia propuesto que las acciones humanas deben regirse por el deber. Kant decia que debemos actuar de tal manera que nuestra maxima se convierta en ley universal, lo que el llama el imperativo categorico. Sin embargo, considero que esta postura es muy rigida porque a veces las consecuencias son mas importantes que el deber en si. Por lo tanto, hay situaciones donde mentir para salvar una vida es moralmente correcto, lo que contradice el rigorismo kantiano. En conclusion, la moral no puede ser absoluta y debe evaluar el contexto.",
+    "descripcion": "Estudiante del Liceo San Pedro Poveda (dificultad del 60%, corrección exigente, tipo Estándar). Muestra errores ortográficos como 'etica', 'filosofo', 'aleman', 'havia', 'maxima', 'categorico', 'mas' sin tilde. Hace un análisis correcto de Kant y su imperativo categórico."
+  },
+  {
+    "id": "sim-aleman-tda",
+    "estudiante": "Sofía Landeta",
+    "curso": "4° Medio C",
+    "colegio": "Colegio Alemán",
+    "tipo": "Diferenciado (Con apoyo metodológico)",
+    "ensayo": "Yo creo que la libertad es super importante para el ser humano. El filosofo Nietzsche decia que la vida es voluntad de poder y que debemos superar los valores antiguos para ser libres. Pero a veces es dificil porque la sociedad nos impone reglas. Nietzsche decia que 'el hombre es una cuerda tendida entre la bestia y el superhombre'. Tambien creo que Kant tenia razon cuando decia que todo conocimiento viene de la esperiencia y los sentidos, porque si no tocamos las cosas no podemos saber como son. Por lo tanto, la libertad es una ilusion si no tenemos esperiencia de la realidad.",
+    "descripcion": "Estudiante del Colegio Alemán con necesidades de apoyo metodológico (dificultad del 50%, corrección diferenciada DUA). Muestra errores ortográficos como 'decia', 'esperiencia', 'ilusion', 'Tambien', 'tenia'. Comete un error conceptual filosófico importante: le atribuye a Kant la tesis empirista de que todo conocimiento viene de la experiencia (que es de Hume/Locke, no de Kant, quien planteó una síntesis del racionalismo y empirismo)."
+  }
+]

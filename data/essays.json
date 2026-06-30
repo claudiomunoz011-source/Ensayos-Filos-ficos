@@ -1,0 +1,1688 @@
+[
+  {
+    "id": "essay_oz3hhynaw",
+    "estudiante": "Carlos Muñoz",
+    "curso": "3° Medio A",
+    "colegio": "Liceo San Pedro Poveda",
+    "tipo": "Estándar",
+    "ensayo": "En este ensayo se analiza la etica de Kant. El filosofo aleman havia propuesto que las acciones humanas deben regirse por el deber. Kant decia que debemos actuar de tal manera que nuestra maxima se convierta en ley universal, lo que el llama el imperativo categorico. Sin embargo, considero que esta postura es muy rigida porque a veces las consecuencias son mas importantes que el deber en si. Por lo tanto, hay situaciones donde mentir para salvar una vida es moralmente correcto, lo que contradice el rigorismo kantiano. En conclusion, la moral no puede ser absoluta y debe evaluar el contexto.",
+    "calificacion": 2.4,
+    "fecha": "2026-06-27T17:14:46.748Z",
+    "detalles": {
+      "ortografia": [
+        {
+          "error": "etica",
+          "sugerencia": "ética",
+          "explicacion": "La palabra 'ética' es esdrújula y siempre lleva tilde en la primera 'e'.",
+          "indexStart": 29,
+          "indexEnd": 34
+        },
+        {
+          "error": "filosofo",
+          "sugerencia": "filósofo",
+          "explicacion": "La palabra 'filósofo' es esdrújula y siempre lleva tilde en la primera 'o'.",
+          "indexStart": 47,
+          "indexEnd": 55
+        },
+        {
+          "error": "aleman",
+          "sugerencia": "alemán",
+          "explicacion": "La palabra 'alemán' es aguda, termina en 'n' y lleva tilde en la 'a'.",
+          "indexStart": 56,
+          "indexEnd": 62
+        },
+        {
+          "error": "havia",
+          "sugerencia": "había",
+          "explicacion": "El verbo 'haber' en pretérito imperfecto lleva 'h' y tilde en la 'í'.",
+          "indexStart": 63,
+          "indexEnd": 68
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 137,
+          "indexEnd": 142
+        },
+        {
+          "error": "maxima",
+          "sugerencia": "máxima",
+          "explicacion": "La palabra 'máxima' es esdrújula y siempre lleva tilde en la primera 'a'.",
+          "indexStart": 188,
+          "indexEnd": 194
+        },
+        {
+          "error": "categorico",
+          "sugerencia": "categórico",
+          "explicacion": "La palabra 'categórico' es esdrújula y siempre lleva tilde en la 'o'.",
+          "indexStart": 256,
+          "indexEnd": 266
+        },
+        {
+          "error": "mas",
+          "sugerencia": "más",
+          "explicacion": "Se escribe 'más' (con tilde) cuando funciona como adverbio de cantidad, a diferencia de la conjunción 'mas' (que equivale a 'pero').",
+          "indexStart": 359,
+          "indexEnd": 362
+        },
+        {
+          "error": "conclusion",
+          "sugerencia": "conclusión",
+          "explicacion": "La palabra 'conclusión' es aguda y termina en 'n', lleva tilde en la 'ó'.",
+          "indexStart": 527,
+          "indexEnd": 537
+        }
+      ],
+      "filosofia": [
+        {
+          "observacion": "El ensayo presenta una estructura argumentativa débil o inconexa, con escasez de conectores lógicos de causa-consecuencia.",
+          "sugerencia": "Organiza tu discurso estableciendo premisas explícitas unidas por conectores como 'por lo tanto', 'ya que' o 'en consecuencia' para culminar en una conclusión fundamentada."
+        }
+      ],
+      "dua": {
+        "tipo_correccion": "estandar",
+        "comentario_final": "\n<div class=\"standard-feedback-box\">\n  <h4>Evaluación Metodológica: Reprobado. Se requiere reestructuración del texto.</h4>\n  <p>El ensayo presentado consta de 101 palabras, evaluado bajo una rúbrica de nivel de exigencia institucional del <strong>60%</strong>.</p>\n  <p><strong>Análisis de Desempeño:</strong> Se identificaron 9 errores de nivel gramatical/ortográfico y 1 observaciones referidas a la coherencia epistemológica o formal de los argumentos filosóficos planteados.</p>\n  <p><strong>Recomendaciones Académicas:</strong> Se aconseja incorporar mayor rigor conceptual en la exposición de las citas doctrinales y utilizar una variedad más amplia de conectores lógicos subordinantes. Asimismo, es prioritario revisar el texto con un corrector lexicográfico antes de su reenvío para eliminar las desviaciones de tildación y concordancia reportadas.</p>\n</div>\n"
+      }
+    }
+  },
+  {
+    "id": "essay_jdnm7dqro",
+    "estudiante": "Carlos Muñoz",
+    "curso": "3° Medio A",
+    "colegio": "Liceo San Pedro Poveda",
+    "tipo": "Estándar",
+    "ensayo": "¿Hasta dónde llega la libertad?\nLa libertad es un concepto muy empleado en la política, sobre todo a la hora de justificar las posturas más radicales y las decisiones más cuestionables socialmente. Desde su instauración como un valor público indiscutible con el triunfo del liberalismo a partir del siglo XVII, referirse a la libertad se ha convertido en un lugar común en la conducción de las masas y en las arengas políticas de los distintos actores políticos de la sociedad. Pero qué es exactamente la libertad y hasta dónde llega siguen siendo preguntas que ameritan debate en la sociedad postindustrial contemporánea.\n\nLa libertad, según la define el diccionario de la Real Academia Española, es “la facultad natural que tiene el hombre de obrar de una manera o de otra, y de no obrar, por lo que es responsable de sus actos”, es decir, se trata de la capacidad para decidir el propio rumbo y asumir las consecuencias que ello implique. Dicho de otro modo, la libertad viene a ser una forma del libre albedrío.\n\nEste último término es común en el discurso religioso: se dice que Dios, creador y controlador del mundo, nos permite el libre albedrío y por ello no interviene para ponernos a salvo de las posibles consecuencias catastróficas de nuestras acciones y decisiones. Ello, a pesar de que Dios, según la mayoría de los credos, dictó leyes muy específicas a sus fieles, de cuyo cumplimiento —sobre todo en los grandes monoteísmos— dependería la salvación o el castigo eterno.\n\nPero el libre albedrío también implica que el ser humano debe hallar un modelo de sociedad que le permita conducirse de buena manera. Así, debe proponer sus propias leyes y autoridades, debe conducirse de un modo organizado hacia el bienestar común, lo cual supone una inevitable tensión entre la voluntad individual y las necesidades del colectivo. En el marco de esta tensión se han desarrollado las sociedades modernas.\n\n¿Qué significa ser libre?\n\nUna persona libre, en principio, es una persona que goza de la plenitud de sus derechos y cumple a cabalidad con sus responsabilidades. Entre las definiciones de libertad del diccionario están, por ejemplo, la ausencia de condiciones de esclavitud, prisión o coacción estatal, de modo que la libertad pasa necesariamente por el acuerdo con la voluntad propia. Sin embargo, no puede entenderse la libertad como el disfrute absoluto del propio deseo.\n\nEl filósofo germano Immanuel Kant distinguía entre dos tipos de libertades: las positivas y las negativas. Las primeras son aquellas que facultan al individuo para actuar, mientras que las segundas son aquellas que consisten en la ausencia de obstáculos para actuar. En ese sentido, por ejemplo, un caminante posee la libertad positiva de andar al paso que quiera, pero al mismo tiempo posee la libertad negativa de transitar los caminos no obstaculizados, digamos, por un operativo de la policía que esté ocurriendo en un barrio cercano.\n\nDe allí se desprende que toda libertad existe en un marco de posibilidades determinado por ciertas normas y leyes sociales, en la medida en que el bienestar común se impone al capricho individual, o incluso, que la protección del bienestar individual depende de la restricción de ciertas decisiones. Eso es, a fin de cuentas, lo que significa vivir en sociedad: obedecer a un pacto social con el que hemos decidido regir nuestras existencias, para evitar la tentación del caos y la anarquía.\n\nEs aquí donde entra a jugar la ética en el debate. ¿Hasta qué punto los individuos son realmente autónomos y pueden tomar decisiones que perjudiquen a terceros o incluso a sí mismos? Esta es una pregunta que se hace no solo en el marco de la política sino también en el de la salud pública y otras áreas similares.\n\n¿Tiene derecho una persona a acabar con la propia vida? Supongamos que sí. ¿Tiene derecho a hacerlo una mujer embarazada, causando así la muerte también a su hijo? Y si lo tiene, ¿tiene entonces otra mujer el derecho a interrumpir su embarazo a voluntad? ¿Puede una persona negarse a recibir una vacuna sabiendo que podría transmitir la enfermedad a otros? ¿Puede un arrendatario aumentar el costo de alquiler de su propiedad en medio de un desastre natural? ¿Hasta dónde llega la libertad individual cuando eso violenta la de terceros?\n\nLibertad y responsabilidad \n\nMuchas de estas cuestiones se pueden zanjar si entendemos a la libertad como una cara de la moneda que tiene en la otra cara a la responsabilidad. No puede darse la una sin la otra. El ejercicio de una libertad individual no necesariamente debe conducir a un acto impune ni debe necesariamente ser considerado algo moralmente aceptable.\n\nLo legal y lo moral deben ser fronteras que encaucen el libre albedrío con el fin de hallar un justo equilibrio entre orden y libertad en nuestras sociedades. Esta no es una tarea sencilla, sin embargo, y la política es el campo en el que este debate debe darse, para así intentar alcanzar la promesa de los revolucionarios franceses: libertad, igualdad y fraternidad entre las personas.\n\nReferencias:\n\n“Ensayo” en WIkipedia.\n“Libertad” en Wikipedia.\n“Libertad” en el Diccionario de la Lengua de la Real Academia Española.\n“La libertad” en la Universidad FASTA (Argentina).\n“Positive and Negative Liberty” en Stanford Encyclopedia of Philosophy.\n“Liberty (human rights)” en The Encyclopaedia Britannica.",
+    "calificacion": 6,
+    "fecha": "2026-06-29T03:18:24.383Z",
+    "detalles": {
+      "ortografia": [],
+      "filosofia": [
+        {
+          "observacion": "El ensayo presenta una estructura argumentativa débil o inconexa, con escasez de conectores lógicos de causa-consecuencia.",
+          "sugerencia": "Organiza tu discurso estableciendo premisas explícitas unidas por conectores como 'por lo tanto', 'ya que' o 'en consecuencia' para culminar en una conclusión fundamentada."
+        }
+      ],
+      "dua": {
+        "tipo_correccion": "estandar",
+        "comentario_final": "\n<div class=\"standard-feedback-box\">\n  <h4>Evaluación Metodológica: Aprobado con desempeño satisfactorio.</h4>\n  <p>El ensayo presentado consta de 878 palabras, evaluado bajo una rúbrica de nivel de exigencia institucional del <strong>60%</strong>.</p>\n  <p><strong>Análisis de Desempeño:</strong> Se identificaron 0 errores de nivel gramatical/ortográfico y 1 observaciones referidas a la coherencia epistemológica o formal de los argumentos filosóficos planteados.</p>\n  <p><strong>Recomendaciones Académicas:</strong> Se aconseja incorporar mayor rigor conceptual en la exposición de las citas doctrinales y utilizar una variedad más amplia de conectores lógicos subordinantes. Asimismo, es prioritario revisar el texto con un corrector lexicográfico antes de su reenvío para eliminar las desviaciones de tildación y concordancia reportadas.</p>\n</div>\n"
+      }
+    }
+  },
+  {
+    "id": "essay_j92v8d01u",
+    "estudiante": "Cristobal Suazo",
+    "curso": "3° Medio E",
+    "colegio": "Colegio Alemán",
+    "tipo": "Estándar",
+    "ensayo": "¿Cómo saber si es amor? Una mirada al concepto más esquivo de todos\nTodos sabemos, de un modo u otro, qué es el amor. Todos lo hemos sentido o hemos vivido su ausencia y, sin embargo, no logramos ponernos de acuerdo respecto a qué cosa es, o cómo se lo define o cuáles son sus rasgos esenciales. A veces ni siquiera sabemos si es amor lo que sentimos o si es otra cosa, ya que muchas otras emociones pueden confundirse con el amor. ¿Por qué es tan central en nuestra existencia un concepto tan esquivo?\n\nSi buscamos en el diccionario de la Real Academia Española la palabra “amor”, hallaremos definiciones como esta: “Sentimiento intenso del ser humano que, partiendo de su propia insuficiencia, necesita y busca el encuentro y unión con otro ser”; o como esta: “Sentimiento hacia otra persona que naturalmente nos atrae y que, procurando reciprocidad en el deseo de unión, nos completa, alegra y da energía para convivir, comunicarnos y crear”; o una mucho más simple y concisa: “Sentimiento de afecto, inclinación y entrega a alguien o algo”. Son definiciones muy distintas entre sí, pero que tienen en común dos cosas: 1) el amor es un sentimiento, o sea, algo que se siente; y 2) el amor se siente por el otro, es decir, es algo que nos vincula con los demás. Podemos deducir que el amor, en principio, es un sentimiento de vínculo para con el otro.\n\n×\n\nPause\nRemaining Time -1:33\n\nUnmute\nSemejante conclusión es, sin embargo, muy poco concluyente. Los sentimientos, en general, tienen siempre que ver con los demás, dado que somos criaturas sociales. Tanto la agresión como la empatía juegan un rol importante en la vida social de la humanidad y a cada una le hemos asignado un lugar en nuestras historias, en nuestro imaginario y en nuestra manera de entender el complejo mundo interior que caracteriza a nuestra especie.\n\nDe acuerdo a la ciencia, el amor es el producto de la acción de dos hormonas diferentes sobre el cerebro: la oxitocina y la vasopresina, producidas por el hipotálamo y liberadas por la pituitaria. Ambas hormonas se presentan en grandes cantidades durante los momentos álgidos del amor romántico, y acarrean una sensación de bienestar, satisfacción y gratificación. El objetivo de este mecanismo bien podría ser el establecimiento de lazos continuos en la pareja, para así brindar a la descendencia una mayor base de apoyo y, por lo tanto, mayores chances de éxito vital.\n\nEsta explicación científica puede que sea exacta, pero en realidad dice muy poco sobre lo que es el amor. Reducir a una reacción química un sentimiento que tiene miles de años relatándose, reviviéndose y tratando de describirse en poema tras poema amoroso, padece del mismo inconveniente de cuando se asocia la consciencia a la actividad eléctrica en el cerebro.\n\nLa explicación material y orgánica de un fenómeno psíquico deja poco margen para contemplar sus matices y su complejidad. ¿Es realmente el amor una sensación de bienestar y satisfacción? Habría que preguntárselo al celoso Otelo o a los amantes de Verona, Romeo y Julieta, dispuestos a morir antes que estar el uno sin el otro. La experiencia del amor, pues, no puede reducirse a su explicación fisiológica, tanto como no puede explicarse el paso de la materia organizada a la vida propiamente dicha.\n\nLa complejidad del concepto es tal que puede haber diferentes tipos de amor. Los antiguos griegos distinguían, por ejemplo, entre eros, agape y philia: el amor erótico era el deseo apasionado, típicamente sexual, egocéntrico y egoísta, dependiente de los atributos deseables del objeto amado; el amor agápico era el amor incondicional, reflexivo y generoso, que empuja al amante a darlo todo por el bienestar del amado, y que los cristianos tomaron como modelo para el amor de Dios por todos los fieles; y finalmente el amor filial era aquel que se daba entre los miembros de una familia y entre amigos o compañeros.\n\nAdemás, uno de los grandes tipos de amor es el amor romántico. Este último consiste fundamentalmente en un amor idealizado, puro, de profundos y duraderos sentimientos de pertenencia. Era un modelo de amor muy propio de la lógica cristiana, que privilegiaba el bienestar del alma inmortal por sobre el goce del cuerpo perecedero.\n\nLas consideraciones con que se cuenta el amor, es decir, con las que se lo imagina y, por lo tanto, se lo desea han variado mucho a lo largo de la historia. Esto nos lleva a suponer que el amor quizás sea un concepto cultural a la par que una realidad biológica (una reacción bioquímica) o una realidad psíquica (un sentimiento). Y estos tres elementos conforman, entonces, los límites de lo que es el amor: ese terreno común entre las tres realidades, sin que realmente importe cuál de las tres surgió primero o cuál es, por ende, la “verdadera”.\n\nEl amor es, por lo tanto, un punto específico de encuentro entre tres costados fundamentales de la humanidad: el biológico o corporal, el psíquico o sentimental y el social o cultural. Este es un concepto difícil de enunciar, esquivo a la lógica, porque descansa en sus tres patas de distinta manera: quizá porque aquello que los antiguos griegos distinguían como tres formas distintas de amor no eran más que tres costados de un mismo triángulo.\n\nReferencias:\n\n“Ensayo” en WIkipedia.\n“Amor” en Wikipedia.\n“Amor” en el Diccionario de la Lengua de la Real Academia Española.\n“¿Qué es el amor? Esto es lo que nos dice la ciencia” en El País (España).\n“Love” en Stanford Encyclopedia of Philosophy.\n“Love” en The Encyclopaedia Britannica.",
+    "calificacion": 6.3,
+    "fecha": "2026-06-29T03:22:08.220Z",
+    "detalles": {
+      "ortografia": [],
+      "filosofia": [
+        {
+          "observacion": "Tu escrito no menciona explícitamente a ningún filósofo de referencia en la discusión de las premisas.",
+          "sugerencia": "Para elevar el nivel formal del ensayo, incorpora citas o doctrinas de filósofos clásicos o contemporáneos (ej. Platón, Kant, Aristóteles, Nietzsche) que robustezcan tu postura."
+        }
+      ],
+      "dua": {
+        "tipo_correccion": "estandar",
+        "comentario_final": "\n<div class=\"standard-feedback-box\">\n  <h4>Evaluación Metodológica: Aprobado con desempeño satisfactorio.</h4>\n  <p>El ensayo presentado consta de 929 palabras, evaluado bajo una rúbrica de nivel de exigencia institucional del <strong>45%</strong>.</p>\n  <p><strong>Análisis de Desempeño:</strong> Se identificaron 0 errores de nivel gramatical/ortográfico y 1 observaciones referidas a la coherencia epistemológica o formal de los argumentos filosóficos planteados.</p>\n  <p><strong>Recomendaciones Académicas:</strong> Se aconseja incorporar mayor rigor conceptual en la exposición de las citas doctrinales y utilizar una variedad más amplia de conectores lógicos subordinantes. Asimismo, es prioritario revisar el texto con un corrector lexicográfico antes de su reenvío para eliminar las desviaciones de tildación y concordancia reportadas.</p>\n</div>\n"
+      }
+    }
+  },
+  {
+    "id": "essay_lm7jner2y",
+    "estudiante": "Cristobal Suazo",
+    "curso": "3° Medio E",
+    "colegio": "Colegio Alemán",
+    "tipo": "Estándar",
+    "ensayo": "¿Cómo saber si es amor? Una mirada al concepto más esquivo de todos\nTodos sabemos, de un modo u otro, qué es el amor. Todos lo hemos sentido o hemos vivido su ausencia y, sin embargo, no logramos ponernos de acuerdo respecto a qué cosa es, o cómo se lo define o cuáles son sus rasgos esenciales. A veces ni siquiera sabemos si es amor lo que sentimos o si es otra cosa, ya que muchas otras emociones pueden confundirse con el amor. ¿Por qué es tan central en nuestra existencia un concepto tan esquivo?\n\nSi buscamos en el diccionario de la Real Academia Española la palabra “amor”, hallaremos definiciones como esta: “Sentimiento intenso del ser humano que, partiendo de su propia insuficiencia, necesita y busca el encuentro y unión con otro ser”; o como esta: “Sentimiento hacia otra persona que naturalmente nos atrae y que, procurando reciprocidad en el deseo de unión, nos completa, alegra y da energía para convivir, comunicarnos y crear”; o una mucho más simple y concisa: “Sentimiento de afecto, inclinación y entrega a alguien o algo”. Son definiciones muy distintas entre sí, pero que tienen en común dos cosas: 1) el amor es un sentimiento, o sea, algo que se siente; y 2) el amor se siente por el otro, es decir, es algo que nos vincula con los demás. Podemos deducir que el amor, en principio, es un sentimiento de vínculo para con el otro.\n\n×\n\nPause\nRemaining Time -1:33\n\nUnmute\nSemejante conclusión es, sin embargo, muy poco concluyente. Los sentimientos, en general, tienen siempre que ver con los demás, dado que somos criaturas sociales. Tanto la agresión como la empatía juegan un rol importante en la vida social de la humanidad y a cada una le hemos asignado un lugar en nuestras historias, en nuestro imaginario y en nuestra manera de entender el complejo mundo interior que caracteriza a nuestra especie.\n\nDe acuerdo a la ciencia, el amor es el producto de la acción de dos hormonas diferentes sobre el cerebro: la oxitocina y la vasopresina, producidas por el hipotálamo y liberadas por la pituitaria. Ambas hormonas se presentan en grandes cantidades durante los momentos álgidos del amor romántico, y acarrean una sensación de bienestar, satisfacción y gratificación. El objetivo de este mecanismo bien podría ser el establecimiento de lazos continuos en la pareja, para así brindar a la descendencia una mayor base de apoyo y, por lo tanto, mayores chances de éxito vital.\n\nEsta explicación científica puede que sea exacta, pero en realidad dice muy poco sobre lo que es el amor. Reducir a una reacción química un sentimiento que tiene miles de años relatándose, reviviéndose y tratando de describirse en poema tras poema amoroso, padece del mismo inconveniente de cuando se asocia la consciencia a la actividad eléctrica en el cerebro.\n\nLa explicación material y orgánica de un fenómeno psíquico deja poco margen para contemplar sus matices y su complejidad. ¿Es realmente el amor una sensación de bienestar y satisfacción? Habría que preguntárselo al celoso Otelo o a los amantes de Verona, Romeo y Julieta, dispuestos a morir antes que estar el uno sin el otro. La experiencia del amor, pues, no puede reducirse a su explicación fisiológica, tanto como no puede explicarse el paso de la materia organizada a la vida propiamente dicha.\n\nLa complejidad del concepto es tal que puede haber diferentes tipos de amor. Los antiguos griegos distinguían, por ejemplo, entre eros, agape y philia: el amor erótico era el deseo apasionado, típicamente sexual, egocéntrico y egoísta, dependiente de los atributos deseables del objeto amado; el amor agápico era el amor incondicional, reflexivo y generoso, que empuja al amante a darlo todo por el bienestar del amado, y que los cristianos tomaron como modelo para el amor de Dios por todos los fieles; y finalmente el amor filial era aquel que se daba entre los miembros de una familia y entre amigos o compañeros.\n\nAdemás, uno de los grandes tipos de amor es el amor romántico. Este último consiste fundamentalmente en un amor idealizado, puro, de profundos y duraderos sentimientos de pertenencia. Era un modelo de amor muy propio de la lógica cristiana, que privilegiaba el bienestar del alma inmortal por sobre el goce del cuerpo perecedero.\n\nLas consideraciones con que se cuenta el amor, es decir, con las que se lo imagina y, por lo tanto, se lo desea han variado mucho a lo largo de la historia. Esto nos lleva a suponer que el amor quizás sea un concepto cultural a la par que una realidad biológica (una reacción bioquímica) o una realidad psíquica (un sentimiento). Y estos tres elementos conforman, entonces, los límites de lo que es el amor: ese terreno común entre las tres realidades, sin que realmente importe cuál de las tres surgió primero o cuál es, por ende, la “verdadera”.\n\nEl amor es, por lo tanto, un punto específico de encuentro entre tres costados fundamentales de la humanidad: el biológico o corporal, el psíquico o sentimental y el social o cultural. Este es un concepto difícil de enunciar, esquivo a la lógica, porque descansa en sus tres patas de distinta manera: quizá porque aquello que los antiguos griegos distinguían como tres formas distintas de amor no eran más que tres costados de un mismo triángulo.\n\nReferencias:\n\n“Ensayo” en WIkipedia.\n“Amor” en Wikipedia.\n“Amor” en el Diccionario de la Lengua de la Real Academia Española.\n“¿Qué es el amor? Esto es lo que nos dice la ciencia” en El País (España).\n“Love” en Stanford Encyclopedia of Philosophy.\n“Love” en The Encyclopaedia Britannica.",
+    "calificacion": 6.3,
+    "fecha": "2026-06-29T03:23:46.380Z",
+    "detalles": {
+      "ortografia": [],
+      "filosofia": [
+        {
+          "observacion": "Tu escrito no menciona explícitamente a ningún filósofo de referencia en la discusión de las premisas.",
+          "sugerencia": "Para elevar el nivel formal del ensayo, incorpora citas o doctrinas de filósofos clásicos o contemporáneos (ej. Platón, Kant, Aristóteles, Nietzsche) que robustezcan tu postura."
+        }
+      ],
+      "dua": {
+        "tipo_correccion": "estandar",
+        "comentario_final": "\n<div class=\"standard-feedback-box\">\n  <h4>Evaluación Metodológica: Aprobado con desempeño satisfactorio.</h4>\n  <p>El ensayo presentado consta de 929 palabras, evaluado bajo una rúbrica de nivel de exigencia institucional del <strong>45%</strong>.</p>\n  <p><strong>Análisis de Desempeño:</strong> Se identificaron 0 errores de nivel gramatical/ortográfico y 1 observaciones referidas a la coherencia epistemológica o formal de los argumentos filosóficos planteados.</p>\n  <p><strong>Recomendaciones Académicas:</strong> Se aconseja incorporar mayor rigor conceptual en la exposición de las citas doctrinales y utilizar una variedad más amplia de conectores lógicos subordinantes. Asimismo, es prioritario revisar el texto con un corrector lexicográfico antes de su reenvío para eliminar las desviaciones de tildación y concordancia reportadas.</p>\n</div>\n"
+      }
+    }
+  },
+  {
+    "id": "essay_0beg2wdmj",
+    "estudiante": "Carlos Muñoz",
+    "curso": "3° Medio A",
+    "colegio": "Liceo San Pedro Poveda",
+    "tipo": "Estándar",
+    "ensayo": "En este ensayo se analiza la etica de Kant. El filosofo aleman havia propuesto que las acciones humanas deben regirse por el deber. Kant decia que debemos actuar de tal manera que nuestra maxima se convierta en ley universal, lo que el llama el imperativo categorico. Sin embargo, considero que esta postura es muy rigida porque a veces las consecuencias son mas importantes que el deber en si. Por lo tanto, hay situaciones donde mentir para salvar una vida es moralmente correcto, lo que contradice el rigorismo kantiano. En conclusion, la moral no puede ser absoluta y debe evaluar el contexto.",
+    "calificacion": 2.4,
+    "fecha": "2026-06-29T03:26:20.478Z",
+    "detalles": {
+      "ortografia": [
+        {
+          "error": "etica",
+          "sugerencia": "ética",
+          "explicacion": "La palabra 'ética' es esdrújula y siempre lleva tilde en la primera 'e'.",
+          "indexStart": 29,
+          "indexEnd": 34
+        },
+        {
+          "error": "filosofo",
+          "sugerencia": "filósofo",
+          "explicacion": "La palabra 'filósofo' es esdrújula y siempre lleva tilde en la primera 'o'.",
+          "indexStart": 47,
+          "indexEnd": 55
+        },
+        {
+          "error": "aleman",
+          "sugerencia": "alemán",
+          "explicacion": "La palabra 'alemán' es aguda, termina en 'n' y lleva tilde en la 'a'.",
+          "indexStart": 56,
+          "indexEnd": 62
+        },
+        {
+          "error": "havia",
+          "sugerencia": "había",
+          "explicacion": "El verbo 'haber' en pretérito imperfecto lleva 'h' y tilde en la 'í'.",
+          "indexStart": 63,
+          "indexEnd": 68
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 137,
+          "indexEnd": 142
+        },
+        {
+          "error": "maxima",
+          "sugerencia": "máxima",
+          "explicacion": "La palabra 'máxima' es esdrújula y siempre lleva tilde en la primera 'a'.",
+          "indexStart": 188,
+          "indexEnd": 194
+        },
+        {
+          "error": "categorico",
+          "sugerencia": "categórico",
+          "explicacion": "La palabra 'categórico' es esdrújula y siempre lleva tilde en la 'o'.",
+          "indexStart": 256,
+          "indexEnd": 266
+        },
+        {
+          "error": "mas",
+          "sugerencia": "más",
+          "explicacion": "Se escribe 'más' (con tilde) cuando funciona como adverbio de cantidad, a diferencia de la conjunción 'mas' (que equivale a 'pero').",
+          "indexStart": 359,
+          "indexEnd": 362
+        },
+        {
+          "error": "conclusion",
+          "sugerencia": "conclusión",
+          "explicacion": "La palabra 'conclusión' es aguda y termina en 'n', lleva tilde en la 'ó'.",
+          "indexStart": 527,
+          "indexEnd": 537
+        }
+      ],
+      "filosofia": [
+        {
+          "observacion": "El ensayo presenta una estructura argumentativa débil o inconexa, con escasez de conectores lógicos de causa-consecuencia.",
+          "sugerencia": "Organiza tu discurso estableciendo premisas explícitas unidas por conectores como 'por lo tanto', 'ya que' o 'en consecuencia' para culminar en una conclusión fundamentada."
+        }
+      ],
+      "dua": {
+        "tipo_correccion": "estandar",
+        "comentario_final": "\n<div class=\"standard-feedback-box\">\n  <h4>Evaluación Metodológica: Reprobado. Se requiere reestructuración del texto.</h4>\n  <p>El ensayo presentado consta de 101 palabras, evaluado bajo una rúbrica de nivel de exigencia institucional del <strong>60%</strong>.</p>\n  <p><strong>Análisis de Desempeño:</strong> Se identificaron 9 errores de nivel gramatical/ortográfico y 1 observaciones referidas a la coherencia epistemológica o formal de los argumentos filosóficos planteados.</p>\n  <p><strong>Recomendaciones Académicas:</strong> Se aconseja incorporar mayor rigor conceptual en la exposición de las citas doctrinales y utilizar una variedad más amplia de conectores lógicos subordinantes. Asimismo, es prioritario revisar el texto con un corrector lexicográfico antes de su reenvío para eliminar las desviaciones de tildación y concordancia reportadas.</p>\n</div>\n"
+      }
+    }
+  },
+  {
+    "id": "essay_4ls5vi159",
+    "estudiante": "Sofía Landeta",
+    "curso": "4° Medio C",
+    "colegio": "Colegio Alemán",
+    "tipo": "Diferenciado (Con apoyo metodológico)",
+    "ensayo": "Yo creo que la libertad es super importante para el ser humano. El filosofo Nietzsche decia que la vida es voluntad de poder y que debemos superar los valores antiguos para ser libres. Pero a veces es dificil porque la sociedad nos impone reglas. Nietzsche decia que 'el hombre es una cuerda tendida entre la bestia y el superhombre'. Tambien creo que Kant tenia razon cuando decia que todo conocimiento viene de la esperiencia y los sentidos, porque si no tocamos las cosas no podemos saber como son. Por lo tanto, la libertad es una ilusion si no tenemos esperiencia de la realidad.",
+    "calificacion": 1,
+    "fecha": "2026-06-29T03:27:52.974Z",
+    "detalles": {
+      "ortografia": [
+        {
+          "error": "filosofo",
+          "sugerencia": "filósofo",
+          "explicacion": "La palabra 'filósofo' es esdrújula y siempre lleva tilde en la primera 'o'.",
+          "indexStart": 67,
+          "indexEnd": 75
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 86,
+          "indexEnd": 91
+        },
+        {
+          "error": "dificil",
+          "sugerencia": "difícil",
+          "explicacion": "La palabra 'difícil' es llana y no termina en 'n', 's' o vocal, por lo que lleva tilde en la 'í'.",
+          "indexStart": 201,
+          "indexEnd": 208
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 257,
+          "indexEnd": 262
+        },
+        {
+          "error": "Tambien",
+          "sugerencia": "también",
+          "explicacion": "La palabra 'también' es aguda, termina en 'n' y lleva tilde en la segunda 'e'.",
+          "indexStart": 335,
+          "indexEnd": 342
+        },
+        {
+          "error": "tenia",
+          "sugerencia": "tenía",
+          "explicacion": "El verbo 'tener' en pretérito imperfecto lleva tilde en la 'í' por hiato.",
+          "indexStart": 357,
+          "indexEnd": 362
+        },
+        {
+          "error": "razon",
+          "sugerencia": "razón",
+          "explicacion": "Palabra aguda que termina en 'n', por lo tanto lleva tilde en la 'ó'.",
+          "indexStart": 363,
+          "indexEnd": 368
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 376,
+          "indexEnd": 381
+        },
+        {
+          "error": "esperiencia",
+          "sugerencia": "experiencia",
+          "explicacion": "Se escribe con 'x' ('experiencia'), derivado del latín 'experientia'.",
+          "indexStart": 416,
+          "indexEnd": 427
+        },
+        {
+          "error": "ilusion",
+          "sugerencia": "ilusión",
+          "explicacion": "La palabra 'ilusión' es aguda, termina en 'n' y lleva tilde en la 'ó'.",
+          "indexStart": 535,
+          "indexEnd": 542
+        },
+        {
+          "error": "esperiencia",
+          "sugerencia": "experiencia",
+          "explicacion": "Se escribe con 'x' ('experiencia'), derivado del latín 'experientia'.",
+          "indexStart": 557,
+          "indexEnd": 568
+        }
+      ],
+      "filosofia": [
+        {
+          "observacion": "Mencionas a Immanuel Kant pero no utilizas ninguno de sus conceptos fundamentales.",
+          "sugerencia": "Enriquece la exposición contextualizando la tesis de Immanuel Kant con términos clave como: imperativo, categórico, deber."
+        },
+        {
+          "observacion": "Se le atribuye a Kant la tesis empirista pura de que todo conocimiento procede únicamente de la experiencia sensible y los sentidos.",
+          "sugerencia": "Revisa la distinción entre empirismo y racionalismo. Kant sostiene en su 'Crítica de la Razón Pura' que si bien todo conocimiento *comienza* con la experiencia, no todo *procede* de ella (sintetiza ambos postulados)."
+        },
+        {
+          "observacion": "El ensayo presenta una estructura argumentativa débil o inconexa, con escasez de conectores lógicos de causa-consecuencia.",
+          "sugerencia": "Organiza tu discurso estableciendo premisas explícitas unidas por conectores como 'por lo tanto', 'ya que' o 'en consecuencia' para culminar en una conclusión fundamentada."
+        }
+      ],
+      "dua": {
+        "tipo_correccion": "diferenciada",
+        "comentario_final": "\n<div class=\"dua-feedback-box\">\n  <h4>🌟 ¡Vas por buen camino! Sigamos trabajando en ordenar las ideas de tu ensayo.</h4>\n  <p>Hemos analizado tu ensayo utilizando tres lentes diferentes (ortografía, coherencia de filósofos y método de escritura). Aquí tienes una guía visual paso a paso para mejorar tu trabajo:</p>\n  \n  <div class=\"dua-section\">\n    <strong>📋 Resumen de tu avance:</strong>\n    <ul>\n      <li>✍️ Redactaste un texto de <strong>103 palabras</strong>.</li>\n      <li>⚠️ El detector encontró <strong>11 detalles de ortografía o espaciado</strong>.</li>\n      <li>💡 El asesor filosófico tiene <strong>3 sugerencias</strong> para afinar tus argumentos.</li>\n    </ul>\n  </div>\n\n  <div class=\"dua-section\">\n    <strong>🚀 Plan de acción paso a paso para mejorar tu nota:</strong>\n    <ol>\n      <li><strong>Corrige las palabras marcadas en rojo:</strong> Haz clic en las sugerencias del visor de texto para enmendar los acentos u letras omitidas.</li>\n      <li><strong>Ajusta tus ideas de filosofía:</strong> Enriquece la exposición contextualizando la tesis de Immanuel Kant con términos clave como: imperativo, categórico, deber.</li>\n      <li><strong>Próximo paso:</strong> Vuelve a leer tu escrito en voz alta para verificar que las frases sean cortas y fáciles de entender.</li>\n    </ol>\n  </div>\n\n  <div class=\"dua-section suggestion-notes\">\n    <strong>💡 Recomendación de visualización cognitiva:</strong>\n    <p>Para la próxima redacción, te recomendamos dibujar un mapa mental con tu idea principal en el centro y las razones (premisas) a los lados antes de comenzar a escribir.</p>\n  </div>\n</div>\n"
+      }
+    }
+  },
+  {
+    "id": "essay_cjgl0cfpz",
+    "estudiante": "Sofía Landeta",
+    "curso": "4° Medio C",
+    "colegio": "Colegio Alemán",
+    "tipo": "Diferenciado (Con apoyo metodológico)",
+    "ensayo": "Yo creo que la libertad es super importante para el ser humano. El filosofo Nietzsche decia que la vida es voluntad de poder y que debemos superar los valores antiguos para ser libres. Pero a veces es dificil porque la sociedad nos impone reglas. Nietzsche decia que 'el hombre es una cuerda tendida entre la bestia y el superhombre'. Tambien creo que Kant tenia razon cuando decia que todo conocimiento viene de la esperiencia y los sentidos, porque si no tocamos las cosas no podemos saber como son. Por lo tanto, la libertad es una ilusion si no tenemos esperiencia de la realidad.",
+    "calificacion": 1,
+    "fecha": "2026-06-29T03:28:50.905Z",
+    "detalles": {
+      "ortografia": [
+        {
+          "error": "filosofo",
+          "sugerencia": "filósofo",
+          "explicacion": "La palabra 'filósofo' es esdrújula y siempre lleva tilde en la primera 'o'.",
+          "indexStart": 67,
+          "indexEnd": 75
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 86,
+          "indexEnd": 91
+        },
+        {
+          "error": "dificil",
+          "sugerencia": "difícil",
+          "explicacion": "La palabra 'difícil' es llana y no termina en 'n', 's' o vocal, por lo que lleva tilde en la 'í'.",
+          "indexStart": 201,
+          "indexEnd": 208
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 257,
+          "indexEnd": 262
+        },
+        {
+          "error": "Tambien",
+          "sugerencia": "también",
+          "explicacion": "La palabra 'también' es aguda, termina en 'n' y lleva tilde en la segunda 'e'.",
+          "indexStart": 335,
+          "indexEnd": 342
+        },
+        {
+          "error": "tenia",
+          "sugerencia": "tenía",
+          "explicacion": "El verbo 'tener' en pretérito imperfecto lleva tilde en la 'í' por hiato.",
+          "indexStart": 357,
+          "indexEnd": 362
+        },
+        {
+          "error": "razon",
+          "sugerencia": "razón",
+          "explicacion": "Palabra aguda que termina en 'n', por lo tanto lleva tilde en la 'ó'.",
+          "indexStart": 363,
+          "indexEnd": 368
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 376,
+          "indexEnd": 381
+        },
+        {
+          "error": "esperiencia",
+          "sugerencia": "experiencia",
+          "explicacion": "Se escribe con 'x' ('experiencia'), derivado del latín 'experientia'.",
+          "indexStart": 416,
+          "indexEnd": 427
+        },
+        {
+          "error": "ilusion",
+          "sugerencia": "ilusión",
+          "explicacion": "La palabra 'ilusión' es aguda, termina en 'n' y lleva tilde en la 'ó'.",
+          "indexStart": 535,
+          "indexEnd": 542
+        },
+        {
+          "error": "esperiencia",
+          "sugerencia": "experiencia",
+          "explicacion": "Se escribe con 'x' ('experiencia'), derivado del latín 'experientia'.",
+          "indexStart": 557,
+          "indexEnd": 568
+        }
+      ],
+      "filosofia": [
+        {
+          "observacion": "Mencionas a Immanuel Kant pero no utilizas ninguno de sus conceptos fundamentales.",
+          "sugerencia": "Enriquece la exposición contextualizando la tesis de Immanuel Kant con términos clave como: imperativo, categórico, deber."
+        },
+        {
+          "observacion": "Se le atribuye a Kant la tesis empirista pura de que todo conocimiento procede únicamente de la experiencia sensible y los sentidos.",
+          "sugerencia": "Revisa la distinción entre empirismo y racionalismo. Kant sostiene en su 'Crítica de la Razón Pura' que si bien todo conocimiento *comienza* con la experiencia, no todo *procede* de ella (sintetiza ambos postulados)."
+        },
+        {
+          "observacion": "El ensayo presenta una estructura argumentativa débil o inconexa, con escasez de conectores lógicos de causa-consecuencia.",
+          "sugerencia": "Organiza tu discurso estableciendo premisas explícitas unidas por conectores como 'por lo tanto', 'ya que' o 'en consecuencia' para culminar en una conclusión fundamentada."
+        }
+      ],
+      "dua": {
+        "tipo_correccion": "diferenciada",
+        "comentario_final": "\n<div class=\"dua-feedback-box\">\n  <h4>🌟 ¡Vas por buen camino! Sigamos trabajando en ordenar las ideas de tu ensayo.</h4>\n  <p>Hemos analizado tu ensayo utilizando tres lentes diferentes (ortografía, coherencia de filósofos y método de escritura). Aquí tienes una guía visual paso a paso para mejorar tu trabajo:</p>\n  \n  <div class=\"dua-section\">\n    <strong>📋 Resumen de tu avance:</strong>\n    <ul>\n      <li>✍️ Redactaste un texto de <strong>103 palabras</strong>.</li>\n      <li>⚠️ El detector encontró <strong>11 detalles de ortografía o espaciado</strong>.</li>\n      <li>💡 El asesor filosófico tiene <strong>3 sugerencias</strong> para afinar tus argumentos.</li>\n    </ul>\n  </div>\n\n  <div class=\"dua-section\">\n    <strong>🚀 Plan de acción paso a paso para mejorar tu nota:</strong>\n    <ol>\n      <li><strong>Corrige las palabras marcadas en rojo:</strong> Haz clic en las sugerencias del visor de texto para enmendar los acentos u letras omitidas.</li>\n      <li><strong>Ajusta tus ideas de filosofía:</strong> Enriquece la exposición contextualizando la tesis de Immanuel Kant con términos clave como: imperativo, categórico, deber.</li>\n      <li><strong>Próximo paso:</strong> Vuelve a leer tu escrito en voz alta para verificar que las frases sean cortas y fáciles de entender.</li>\n    </ol>\n  </div>\n\n  <div class=\"dua-section suggestion-notes\">\n    <strong>💡 Recomendación de visualización cognitiva:</strong>\n    <p>Para la próxima redacción, te recomendamos dibujar un mapa mental con tu idea principal en el centro y las razones (premisas) a los lados antes de comenzar a escribir.</p>\n  </div>\n</div>\n"
+      }
+    }
+  },
+  {
+    "id": "essay_2lfl22yp5",
+    "estudiante": "Sofía Landeta",
+    "curso": "4° Medio C",
+    "colegio": "Colegio Alemán",
+    "tipo": "Diferenciado (Con apoyo metodológico)",
+    "ensayo": "Yo creo que la libertad es super importante para el ser humano. El filosofo Nietzsche decia que la vida es voluntad de poder y que debemos superar los valores antiguos para ser libres. Pero a veces es dificil porque la sociedad nos impone reglas. Nietzsche decia que 'el hombre es una cuerda tendida entre la bestia y el superhombre'. Tambien creo que Kant tenia razon cuando decia que todo conocimiento viene de la esperiencia y los sentidos, porque si no tocamos las cosas no podemos saber como son. Por lo tanto, la libertad es una ilusion si no tenemos esperiencia de la realidad.",
+    "calificacion": 1,
+    "fecha": "2026-06-29T03:29:22.405Z",
+    "detalles": {
+      "ortografia": [
+        {
+          "error": "filosofo",
+          "sugerencia": "filósofo",
+          "explicacion": "La palabra 'filósofo' es esdrújula y siempre lleva tilde en la primera 'o'.",
+          "indexStart": 67,
+          "indexEnd": 75
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 86,
+          "indexEnd": 91
+        },
+        {
+          "error": "dificil",
+          "sugerencia": "difícil",
+          "explicacion": "La palabra 'difícil' es llana y no termina en 'n', 's' o vocal, por lo que lleva tilde en la 'í'.",
+          "indexStart": 201,
+          "indexEnd": 208
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 257,
+          "indexEnd": 262
+        },
+        {
+          "error": "Tambien",
+          "sugerencia": "también",
+          "explicacion": "La palabra 'también' es aguda, termina en 'n' y lleva tilde en la segunda 'e'.",
+          "indexStart": 335,
+          "indexEnd": 342
+        },
+        {
+          "error": "tenia",
+          "sugerencia": "tenía",
+          "explicacion": "El verbo 'tener' en pretérito imperfecto lleva tilde en la 'í' por hiato.",
+          "indexStart": 357,
+          "indexEnd": 362
+        },
+        {
+          "error": "razon",
+          "sugerencia": "razón",
+          "explicacion": "Palabra aguda que termina en 'n', por lo tanto lleva tilde en la 'ó'.",
+          "indexStart": 363,
+          "indexEnd": 368
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 376,
+          "indexEnd": 381
+        },
+        {
+          "error": "esperiencia",
+          "sugerencia": "experiencia",
+          "explicacion": "Se escribe con 'x' ('experiencia'), derivado del latín 'experientia'.",
+          "indexStart": 416,
+          "indexEnd": 427
+        },
+        {
+          "error": "ilusion",
+          "sugerencia": "ilusión",
+          "explicacion": "La palabra 'ilusión' es aguda, termina en 'n' y lleva tilde en la 'ó'.",
+          "indexStart": 535,
+          "indexEnd": 542
+        },
+        {
+          "error": "esperiencia",
+          "sugerencia": "experiencia",
+          "explicacion": "Se escribe con 'x' ('experiencia'), derivado del latín 'experientia'.",
+          "indexStart": 557,
+          "indexEnd": 568
+        }
+      ],
+      "filosofia": [
+        {
+          "observacion": "Mencionas a Immanuel Kant pero no utilizas ninguno de sus conceptos fundamentales.",
+          "sugerencia": "Enriquece la exposición contextualizando la tesis de Immanuel Kant con términos clave como: imperativo, categórico, deber."
+        },
+        {
+          "observacion": "Se le atribuye a Kant la tesis empirista pura de que todo conocimiento procede únicamente de la experiencia sensible y los sentidos.",
+          "sugerencia": "Revisa la distinción entre empirismo y racionalismo. Kant sostiene en su 'Crítica de la Razón Pura' que si bien todo conocimiento *comienza* con la experiencia, no todo *procede* de ella (sintetiza ambos postulados)."
+        },
+        {
+          "observacion": "El ensayo presenta una estructura argumentativa débil o inconexa, con escasez de conectores lógicos de causa-consecuencia.",
+          "sugerencia": "Organiza tu discurso estableciendo premisas explícitas unidas por conectores como 'por lo tanto', 'ya que' o 'en consecuencia' para culminar en una conclusión fundamentada."
+        }
+      ],
+      "dua": {
+        "tipo_correccion": "diferenciada",
+        "comentario_final": "\n<div class=\"dua-feedback-box\">\n  <h4>🌟 ¡Vas por buen camino! Sigamos trabajando en ordenar las ideas de tu ensayo.</h4>\n  <p>Hemos analizado tu ensayo utilizando tres lentes diferentes (ortografía, coherencia de filósofos y método de escritura). Aquí tienes una guía visual paso a paso para mejorar tu trabajo:</p>\n  \n  <div class=\"dua-section\">\n    <strong>📋 Resumen de tu avance:</strong>\n    <ul>\n      <li>✍️ Redactaste un texto de <strong>103 palabras</strong>.</li>\n      <li>⚠️ El detector encontró <strong>11 detalles de ortografía o espaciado</strong>.</li>\n      <li>💡 El asesor filosófico tiene <strong>3 sugerencias</strong> para afinar tus argumentos.</li>\n    </ul>\n  </div>\n\n  <div class=\"dua-section\">\n    <strong>🚀 Plan de acción paso a paso para mejorar tu nota:</strong>\n    <ol>\n      <li><strong>Corrige las palabras marcadas en rojo:</strong> Haz clic en las sugerencias del visor de texto para enmendar los acentos u letras omitidas.</li>\n      <li><strong>Ajusta tus ideas de filosofía:</strong> Enriquece la exposición contextualizando la tesis de Immanuel Kant con términos clave como: imperativo, categórico, deber.</li>\n      <li><strong>Próximo paso:</strong> Vuelve a leer tu escrito en voz alta para verificar que las frases sean cortas y fáciles de entender.</li>\n    </ol>\n  </div>\n\n  <div class=\"dua-section suggestion-notes\">\n    <strong>💡 Recomendación de visualización cognitiva:</strong>\n    <p>Para la próxima redacción, te recomendamos dibujar un mapa mental con tu idea principal en el centro y las razones (premisas) a los lados antes de comenzar a escribir.</p>\n  </div>\n</div>\n"
+      }
+    }
+  },
+  {
+    "id": "essay_foh4qm0kt",
+    "estudiante": "Carlos Muñoz",
+    "curso": "3° Medio A",
+    "colegio": "Liceo San Pedro Poveda",
+    "tipo": "Estándar",
+    "ensayo": "En este ensayo se analiza la etica de Kant. El filosofo aleman havia propuesto que las acciones humanas deben regirse por el deber. Kant decia que debemos actuar de tal manera que nuestra maxima se convierta en ley universal, lo que el llama el imperativo categorico. Sin embargo, considero que esta postura es muy rigida porque a veces las consecuencias son mas importantes que el deber en si. Por lo tanto, hay situaciones donde mentir para salvar una vida es moralmente correcto, lo que contradice el rigorismo kantiano. En conclusion, la moral no puede ser absoluta y debe evaluar el contexto.",
+    "calificacion": 2.4,
+    "fecha": "2026-06-29T03:30:15.135Z",
+    "detalles": {
+      "ortografia": [
+        {
+          "error": "etica",
+          "sugerencia": "ética",
+          "explicacion": "La palabra 'ética' es esdrújula y siempre lleva tilde en la primera 'e'.",
+          "indexStart": 29,
+          "indexEnd": 34
+        },
+        {
+          "error": "filosofo",
+          "sugerencia": "filósofo",
+          "explicacion": "La palabra 'filósofo' es esdrújula y siempre lleva tilde en la primera 'o'.",
+          "indexStart": 47,
+          "indexEnd": 55
+        },
+        {
+          "error": "aleman",
+          "sugerencia": "alemán",
+          "explicacion": "La palabra 'alemán' es aguda, termina en 'n' y lleva tilde en la 'a'.",
+          "indexStart": 56,
+          "indexEnd": 62
+        },
+        {
+          "error": "havia",
+          "sugerencia": "había",
+          "explicacion": "El verbo 'haber' en pretérito imperfecto lleva 'h' y tilde en la 'í'.",
+          "indexStart": 63,
+          "indexEnd": 68
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 137,
+          "indexEnd": 142
+        },
+        {
+          "error": "maxima",
+          "sugerencia": "máxima",
+          "explicacion": "La palabra 'máxima' es esdrújula y siempre lleva tilde en la primera 'a'.",
+          "indexStart": 188,
+          "indexEnd": 194
+        },
+        {
+          "error": "categorico",
+          "sugerencia": "categórico",
+          "explicacion": "La palabra 'categórico' es esdrújula y siempre lleva tilde en la 'o'.",
+          "indexStart": 256,
+          "indexEnd": 266
+        },
+        {
+          "error": "mas",
+          "sugerencia": "más",
+          "explicacion": "Se escribe 'más' (con tilde) cuando funciona como adverbio de cantidad, a diferencia de la conjunción 'mas' (que equivale a 'pero').",
+          "indexStart": 359,
+          "indexEnd": 362
+        },
+        {
+          "error": "conclusion",
+          "sugerencia": "conclusión",
+          "explicacion": "La palabra 'conclusión' es aguda y termina en 'n', lleva tilde en la 'ó'.",
+          "indexStart": 527,
+          "indexEnd": 537
+        }
+      ],
+      "filosofia": [
+        {
+          "observacion": "El ensayo presenta una estructura argumentativa débil o inconexa, con escasez de conectores lógicos de causa-consecuencia.",
+          "sugerencia": "Organiza tu discurso estableciendo premisas explícitas unidas por conectores como 'por lo tanto', 'ya que' o 'en consecuencia' para culminar en una conclusión fundamentada."
+        }
+      ],
+      "dua": {
+        "tipo_correccion": "estandar",
+        "comentario_final": "\n<div class=\"standard-feedback-box\">\n  <h4>Evaluación Metodológica: Reprobado. Se requiere reestructuración del texto.</h4>\n  <p>El ensayo presentado consta de 101 palabras, evaluado bajo una rúbrica de nivel de exigencia institucional del <strong>60%</strong>.</p>\n  <p><strong>Análisis de Desempeño:</strong> Se identificaron 9 errores de nivel gramatical/ortográfico y 1 observaciones referidas a la coherencia epistemológica o formal de los argumentos filosóficos planteados.</p>\n  <p><strong>Recomendaciones Académicas:</strong> Se aconseja incorporar mayor rigor conceptual en la exposición de las citas doctrinales y utilizar una variedad más amplia de conectores lógicos subordinantes. Asimismo, es prioritario revisar el texto con un corrector lexicográfico antes de su reenvío para eliminar las desviaciones de tildación y concordancia reportadas.</p>\n</div>\n"
+      }
+    }
+  },
+  {
+    "id": "essay_cyzv1q6hf",
+    "estudiante": "Sofía Landeta",
+    "curso": "4° Medio C",
+    "colegio": "Colegio Alemán",
+    "tipo": "Diferenciado (Con apoyo metodológico)",
+    "ensayo": "Yo creo que la libertad es super importante para el ser humano. El filosofo Nietzsche decia que la vida es voluntad de poder y que debemos superar los valores antiguos para ser libres. Pero a veces es dificil porque la sociedad nos impone reglas. Nietzsche decia que 'el hombre es una cuerda tendida entre la bestia y el superhombre'. Tambien creo que Kant tenia razon cuando decia que todo conocimiento viene de la esperiencia y los sentidos, porque si no tocamos las cosas no podemos saber como son. Por lo tanto, la libertad es una ilusion si no tenemos esperiencia de la realidad.",
+    "calificacion": 1,
+    "fecha": "2026-06-29T03:34:03.659Z",
+    "detalles": {
+      "ortografia": [
+        {
+          "error": "filosofo",
+          "sugerencia": "filósofo",
+          "explicacion": "La palabra 'filósofo' es esdrújula y siempre lleva tilde en la primera 'o'.",
+          "indexStart": 67,
+          "indexEnd": 75
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 86,
+          "indexEnd": 91
+        },
+        {
+          "error": "dificil",
+          "sugerencia": "difícil",
+          "explicacion": "La palabra 'difícil' es llana y no termina en 'n', 's' o vocal, por lo que lleva tilde en la 'í'.",
+          "indexStart": 201,
+          "indexEnd": 208
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 257,
+          "indexEnd": 262
+        },
+        {
+          "error": "Tambien",
+          "sugerencia": "también",
+          "explicacion": "La palabra 'también' es aguda, termina en 'n' y lleva tilde en la segunda 'e'.",
+          "indexStart": 335,
+          "indexEnd": 342
+        },
+        {
+          "error": "tenia",
+          "sugerencia": "tenía",
+          "explicacion": "El verbo 'tener' en pretérito imperfecto lleva tilde en la 'í' por hiato.",
+          "indexStart": 357,
+          "indexEnd": 362
+        },
+        {
+          "error": "razon",
+          "sugerencia": "razón",
+          "explicacion": "Palabra aguda que termina en 'n', por lo tanto lleva tilde en la 'ó'.",
+          "indexStart": 363,
+          "indexEnd": 368
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 376,
+          "indexEnd": 381
+        },
+        {
+          "error": "esperiencia",
+          "sugerencia": "experiencia",
+          "explicacion": "Se escribe con 'x' ('experiencia'), derivado del latín 'experientia'.",
+          "indexStart": 416,
+          "indexEnd": 427
+        },
+        {
+          "error": "ilusion",
+          "sugerencia": "ilusión",
+          "explicacion": "La palabra 'ilusión' es aguda, termina en 'n' y lleva tilde en la 'ó'.",
+          "indexStart": 535,
+          "indexEnd": 542
+        },
+        {
+          "error": "esperiencia",
+          "sugerencia": "experiencia",
+          "explicacion": "Se escribe con 'x' ('experiencia'), derivado del latín 'experientia'.",
+          "indexStart": 557,
+          "indexEnd": 568
+        }
+      ],
+      "filosofia": [
+        {
+          "observacion": "Mencionas a Immanuel Kant pero no utilizas ninguno de sus conceptos fundamentales.",
+          "sugerencia": "Enriquece la exposición contextualizando la tesis de Immanuel Kant con términos clave como: imperativo, categórico, deber."
+        },
+        {
+          "observacion": "Se le atribuye a Kant la tesis empirista pura de que todo conocimiento procede únicamente de la experiencia sensible y los sentidos.",
+          "sugerencia": "Revisa la distinción entre empirismo y racionalismo. Kant sostiene en su 'Crítica de la Razón Pura' que si bien todo conocimiento *comienza* con la experiencia, no todo *procede* de ella (sintetiza ambos postulados)."
+        },
+        {
+          "observacion": "El ensayo presenta una estructura argumentativa débil o inconexa, con escasez de conectores lógicos de causa-consecuencia.",
+          "sugerencia": "Organiza tu discurso estableciendo premisas explícitas unidas por conectores como 'por lo tanto', 'ya que' o 'en consecuencia' para culminar en una conclusión fundamentada."
+        }
+      ],
+      "dua": {
+        "tipo_correccion": "diferenciada",
+        "comentario_final": "\n<div class=\"dua-feedback-box\">\n  <h4>🌟 ¡Vas por buen camino! Sigamos trabajando en ordenar las ideas de tu ensayo.</h4>\n  <p>Hemos analizado tu ensayo utilizando tres lentes diferentes (ortografía, coherencia de filósofos y método de escritura). Aquí tienes una guía visual paso a paso para mejorar tu trabajo:</p>\n  \n  <div class=\"dua-section\">\n    <strong>📋 Resumen de tu avance:</strong>\n    <ul>\n      <li>✍️ Redactaste un texto de <strong>103 palabras</strong>.</li>\n      <li>⚠️ El detector encontró <strong>11 detalles de ortografía o espaciado</strong>.</li>\n      <li>💡 El asesor filosófico tiene <strong>3 sugerencias</strong> para afinar tus argumentos.</li>\n    </ul>\n  </div>\n\n  <div class=\"dua-section\">\n    <strong>🚀 Plan de acción paso a paso para mejorar tu nota:</strong>\n    <ol>\n      <li><strong>Corrige las palabras marcadas en rojo:</strong> Haz clic en las sugerencias del visor de texto para enmendar los acentos u letras omitidas.</li>\n      <li><strong>Ajusta tus ideas de filosofía:</strong> Enriquece la exposición contextualizando la tesis de Immanuel Kant con términos clave como: imperativo, categórico, deber.</li>\n      <li><strong>Próximo paso:</strong> Vuelve a leer tu escrito en voz alta para verificar que las frases sean cortas y fáciles de entender.</li>\n    </ol>\n  </div>\n\n  <div class=\"dua-section suggestion-notes\">\n    <strong>💡 Recomendación de visualización cognitiva:</strong>\n    <p>Para la próxima redacción, te recomendamos dibujar un mapa mental con tu idea principal en el centro y las razones (premisas) a los lados antes de comenzar a escribir.</p>\n  </div>\n</div>\n"
+      }
+    }
+  },
+  {
+    "id": "essay_829kp5axn",
+    "estudiante": "Sofía Landeta",
+    "curso": "4° Medio C",
+    "colegio": "Colegio Alemán",
+    "tipo": "Diferenciado (Con apoyo metodológico)",
+    "ensayo": "Yo creo que la libertad es super importante para el ser humano. El filosofo Nietzsche decia que la vida es voluntad de poder y que debemos superar los valores antiguos para ser libres. Pero a veces es dificil porque la sociedad nos impone reglas. Nietzsche decia que 'el hombre es una cuerda tendida entre la bestia y el superhombre'. Tambien creo que Kant tenia razon cuando decia que todo conocimiento viene de la esperiencia y los sentidos, porque si no tocamos las cosas no podemos saber como son. Por lo tanto, la libertad es una ilusion si no tenemos esperiencia de la realidad.",
+    "calificacion": 1,
+    "fecha": "2026-06-29T03:34:52.825Z",
+    "detalles": {
+      "ortografia": [
+        {
+          "error": "filosofo",
+          "sugerencia": "filósofo",
+          "explicacion": "La palabra 'filósofo' es esdrújula y siempre lleva tilde en la primera 'o'.",
+          "indexStart": 67,
+          "indexEnd": 75
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 86,
+          "indexEnd": 91
+        },
+        {
+          "error": "dificil",
+          "sugerencia": "difícil",
+          "explicacion": "La palabra 'difícil' es llana y no termina en 'n', 's' o vocal, por lo que lleva tilde en la 'í'.",
+          "indexStart": 201,
+          "indexEnd": 208
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 257,
+          "indexEnd": 262
+        },
+        {
+          "error": "Tambien",
+          "sugerencia": "también",
+          "explicacion": "La palabra 'también' es aguda, termina en 'n' y lleva tilde en la segunda 'e'.",
+          "indexStart": 335,
+          "indexEnd": 342
+        },
+        {
+          "error": "tenia",
+          "sugerencia": "tenía",
+          "explicacion": "El verbo 'tener' en pretérito imperfecto lleva tilde en la 'í' por hiato.",
+          "indexStart": 357,
+          "indexEnd": 362
+        },
+        {
+          "error": "razon",
+          "sugerencia": "razón",
+          "explicacion": "Palabra aguda que termina en 'n', por lo tanto lleva tilde en la 'ó'.",
+          "indexStart": 363,
+          "indexEnd": 368
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 376,
+          "indexEnd": 381
+        },
+        {
+          "error": "esperiencia",
+          "sugerencia": "experiencia",
+          "explicacion": "Se escribe con 'x' ('experiencia'), derivado del latín 'experientia'.",
+          "indexStart": 416,
+          "indexEnd": 427
+        },
+        {
+          "error": "ilusion",
+          "sugerencia": "ilusión",
+          "explicacion": "La palabra 'ilusión' es aguda, termina en 'n' y lleva tilde en la 'ó'.",
+          "indexStart": 535,
+          "indexEnd": 542
+        },
+        {
+          "error": "esperiencia",
+          "sugerencia": "experiencia",
+          "explicacion": "Se escribe con 'x' ('experiencia'), derivado del latín 'experientia'.",
+          "indexStart": 557,
+          "indexEnd": 568
+        }
+      ],
+      "filosofia": [
+        {
+          "observacion": "Mencionas a Immanuel Kant pero no utilizas ninguno de sus conceptos fundamentales.",
+          "sugerencia": "Enriquece la exposición contextualizando la tesis de Immanuel Kant con términos clave como: imperativo, categórico, deber."
+        },
+        {
+          "observacion": "Se le atribuye a Kant la tesis empirista pura de que todo conocimiento procede únicamente de la experiencia sensible y los sentidos.",
+          "sugerencia": "Revisa la distinción entre empirismo y racionalismo. Kant sostiene en su 'Crítica de la Razón Pura' que si bien todo conocimiento *comienza* con la experiencia, no todo *procede* de ella (sintetiza ambos postulados)."
+        },
+        {
+          "observacion": "El ensayo presenta una estructura argumentativa débil o inconexa, con escasez de conectores lógicos de causa-consecuencia.",
+          "sugerencia": "Organiza tu discurso estableciendo premisas explícitas unidas por conectores como 'por lo tanto', 'ya que' o 'en consecuencia' para culminar en una conclusión fundamentada."
+        }
+      ],
+      "dua": {
+        "tipo_correccion": "diferenciada",
+        "comentario_final": "\n<div class=\"dua-feedback-box\">\n  <h4>🌟 ¡Vas por buen camino! Sigamos trabajando en ordenar las ideas de tu ensayo.</h4>\n  <p>Hemos analizado tu ensayo utilizando tres lentes diferentes (ortografía, coherencia de filósofos y método de escritura). Aquí tienes una guía visual paso a paso para mejorar tu trabajo:</p>\n  \n  <div class=\"dua-section\">\n    <strong>📋 Resumen de tu avance:</strong>\n    <ul>\n      <li>✍️ Redactaste un texto de <strong>103 palabras</strong>.</li>\n      <li>⚠️ El detector encontró <strong>11 detalles de ortografía o espaciado</strong>.</li>\n      <li>💡 El asesor filosófico tiene <strong>3 sugerencias</strong> para afinar tus argumentos.</li>\n    </ul>\n  </div>\n\n  <div class=\"dua-section\">\n    <strong>🚀 Plan de acción paso a paso para mejorar tu nota:</strong>\n    <ol>\n      <li><strong>Corrige las palabras marcadas en rojo:</strong> Haz clic en las sugerencias del visor de texto para enmendar los acentos u letras omitidas.</li>\n      <li><strong>Ajusta tus ideas de filosofía:</strong> Enriquece la exposición contextualizando la tesis de Immanuel Kant con términos clave como: imperativo, categórico, deber.</li>\n      <li><strong>Próximo paso:</strong> Vuelve a leer tu escrito en voz alta para verificar que las frases sean cortas y fáciles de entender.</li>\n    </ol>\n  </div>\n\n  <div class=\"dua-section suggestion-notes\">\n    <strong>💡 Recomendación de visualización cognitiva:</strong>\n    <p>Para la próxima redacción, te recomendamos dibujar un mapa mental con tu idea principal en el centro y las razones (premisas) a los lados antes de comenzar a escribir.</p>\n  </div>\n</div>\n"
+      }
+    }
+  },
+  {
+    "id": "essay_7fi4vqp6z",
+    "estudiante": "Sofía Landeta",
+    "curso": "4° Medio C",
+    "colegio": "Colegio Alemán",
+    "tipo": "Diferenciado (Con apoyo metodológico)",
+    "ensayo": "Yo creo que la libertad es super importante para el ser humano. El filosofo Nietzsche decia que la vida es voluntad de poder y que debemos superar los valores antiguos para ser libres. Pero a veces es dificil porque la sociedad nos impone reglas. Nietzsche decia que 'el hombre es una cuerda tendida entre la bestia y el superhombre'. Tambien creo que Kant tenia razon cuando decia que todo conocimiento viene de la esperiencia y los sentidos, porque si no tocamos las cosas no podemos saber como son. Por lo tanto, la libertad es una ilusion si no tenemos esperiencia de la realidad.",
+    "calificacion": 1,
+    "fecha": "2026-06-29T03:35:32.737Z",
+    "detalles": {
+      "ortografia": [
+        {
+          "error": "filosofo",
+          "sugerencia": "filósofo",
+          "explicacion": "La palabra 'filósofo' es esdrújula y siempre lleva tilde en la primera 'o'.",
+          "indexStart": 67,
+          "indexEnd": 75
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 86,
+          "indexEnd": 91
+        },
+        {
+          "error": "dificil",
+          "sugerencia": "difícil",
+          "explicacion": "La palabra 'difícil' es llana y no termina en 'n', 's' o vocal, por lo que lleva tilde en la 'í'.",
+          "indexStart": 201,
+          "indexEnd": 208
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 257,
+          "indexEnd": 262
+        },
+        {
+          "error": "Tambien",
+          "sugerencia": "también",
+          "explicacion": "La palabra 'también' es aguda, termina en 'n' y lleva tilde en la segunda 'e'.",
+          "indexStart": 335,
+          "indexEnd": 342
+        },
+        {
+          "error": "tenia",
+          "sugerencia": "tenía",
+          "explicacion": "El verbo 'tener' en pretérito imperfecto lleva tilde en la 'í' por hiato.",
+          "indexStart": 357,
+          "indexEnd": 362
+        },
+        {
+          "error": "razon",
+          "sugerencia": "razón",
+          "explicacion": "Palabra aguda que termina en 'n', por lo tanto lleva tilde en la 'ó'.",
+          "indexStart": 363,
+          "indexEnd": 368
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 376,
+          "indexEnd": 381
+        },
+        {
+          "error": "esperiencia",
+          "sugerencia": "experiencia",
+          "explicacion": "Se escribe con 'x' ('experiencia'), derivado del latín 'experientia'.",
+          "indexStart": 416,
+          "indexEnd": 427
+        },
+        {
+          "error": "ilusion",
+          "sugerencia": "ilusión",
+          "explicacion": "La palabra 'ilusión' es aguda, termina en 'n' y lleva tilde en la 'ó'.",
+          "indexStart": 535,
+          "indexEnd": 542
+        },
+        {
+          "error": "esperiencia",
+          "sugerencia": "experiencia",
+          "explicacion": "Se escribe con 'x' ('experiencia'), derivado del latín 'experientia'.",
+          "indexStart": 557,
+          "indexEnd": 568
+        }
+      ],
+      "filosofia": [
+        {
+          "observacion": "Mencionas a Immanuel Kant pero no utilizas ninguno de sus conceptos fundamentales.",
+          "sugerencia": "Enriquece la exposición contextualizando la tesis de Immanuel Kant con términos clave como: imperativo, categórico, deber."
+        },
+        {
+          "observacion": "Se le atribuye a Kant la tesis empirista pura de que todo conocimiento procede únicamente de la experiencia sensible y los sentidos.",
+          "sugerencia": "Revisa la distinción entre empirismo y racionalismo. Kant sostiene en su 'Crítica de la Razón Pura' que si bien todo conocimiento *comienza* con la experiencia, no todo *procede* de ella (sintetiza ambos postulados)."
+        },
+        {
+          "observacion": "El ensayo presenta una estructura argumentativa débil o inconexa, con escasez de conectores lógicos de causa-consecuencia.",
+          "sugerencia": "Organiza tu discurso estableciendo premisas explícitas unidas por conectores como 'por lo tanto', 'ya que' o 'en consecuencia' para culminar en una conclusión fundamentada."
+        }
+      ],
+      "dua": {
+        "tipo_correccion": "diferenciada",
+        "comentario_final": "\n<div class=\"dua-feedback-box\">\n  <h4>🌟 ¡Vas por buen camino! Sigamos trabajando en ordenar las ideas de tu ensayo.</h4>\n  <p>Hemos analizado tu ensayo utilizando tres lentes diferentes (ortografía, coherencia de filósofos y método de escritura). Aquí tienes una guía visual paso a paso para mejorar tu trabajo:</p>\n  \n  <div class=\"dua-section\">\n    <strong>📋 Resumen de tu avance:</strong>\n    <ul>\n      <li>✍️ Redactaste un texto de <strong>103 palabras</strong>.</li>\n      <li>⚠️ El detector encontró <strong>11 detalles de ortografía o espaciado</strong>.</li>\n      <li>💡 El asesor filosófico tiene <strong>3 sugerencias</strong> para afinar tus argumentos.</li>\n    </ul>\n  </div>\n\n  <div class=\"dua-section\">\n    <strong>🚀 Plan de acción paso a paso para mejorar tu nota:</strong>\n    <ol>\n      <li><strong>Corrige las palabras marcadas en rojo:</strong> Haz clic en las sugerencias del visor de texto para enmendar los acentos u letras omitidas.</li>\n      <li><strong>Ajusta tus ideas de filosofía:</strong> Enriquece la exposición contextualizando la tesis de Immanuel Kant con términos clave como: imperativo, categórico, deber.</li>\n      <li><strong>Próximo paso:</strong> Vuelve a leer tu escrito en voz alta para verificar que las frases sean cortas y fáciles de entender.</li>\n    </ol>\n  </div>\n\n  <div class=\"dua-section suggestion-notes\">\n    <strong>💡 Recomendación de visualización cognitiva:</strong>\n    <p>Para la próxima redacción, te recomendamos dibujar un mapa mental con tu idea principal en el centro y las razones (premisas) a los lados antes de comenzar a escribir.</p>\n  </div>\n</div>\n"
+      }
+    }
+  },
+  {
+    "id": "essay_7o7ezfngj",
+    "estudiante": "Sofía Landeta",
+    "curso": "4° Medio C",
+    "colegio": "Colegio Alemán",
+    "tipo": "Diferenciado (Con apoyo metodológico)",
+    "ensayo": "Yo creo que la libertad es super importante para el ser humano. El filosofo Nietzsche decia que la vida es voluntad de poder y que debemos superar los valores antiguos para ser libres. Pero a veces es dificil porque la sociedad nos impone reglas. Nietzsche decia que 'el hombre es una cuerda tendida entre la bestia y el superhombre'. Tambien creo que Kant tenia razon cuando decia que todo conocimiento viene de la esperiencia y los sentidos, porque si no tocamos las cosas no podemos saber como son. Por lo tanto, la libertad es una ilusion si no tenemos esperiencia de la realidad.",
+    "calificacion": 1,
+    "fecha": "2026-06-29T03:39:23.017Z",
+    "detalles": {
+      "ortografia": [
+        {
+          "error": "filosofo",
+          "sugerencia": "filósofo",
+          "explicacion": "La palabra 'filósofo' es esdrújula y siempre lleva tilde en la primera 'o'.",
+          "indexStart": 67,
+          "indexEnd": 75
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 86,
+          "indexEnd": 91
+        },
+        {
+          "error": "dificil",
+          "sugerencia": "difícil",
+          "explicacion": "La palabra 'difícil' es llana y no termina en 'n', 's' o vocal, por lo que lleva tilde en la 'í'.",
+          "indexStart": 201,
+          "indexEnd": 208
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 257,
+          "indexEnd": 262
+        },
+        {
+          "error": "Tambien",
+          "sugerencia": "también",
+          "explicacion": "La palabra 'también' es aguda, termina en 'n' y lleva tilde en la segunda 'e'.",
+          "indexStart": 335,
+          "indexEnd": 342
+        },
+        {
+          "error": "tenia",
+          "sugerencia": "tenía",
+          "explicacion": "El verbo 'tener' en pretérito imperfecto lleva tilde en la 'í' por hiato.",
+          "indexStart": 357,
+          "indexEnd": 362
+        },
+        {
+          "error": "razon",
+          "sugerencia": "razón",
+          "explicacion": "Palabra aguda que termina en 'n', por lo tanto lleva tilde en la 'ó'.",
+          "indexStart": 363,
+          "indexEnd": 368
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 376,
+          "indexEnd": 381
+        },
+        {
+          "error": "esperiencia",
+          "sugerencia": "experiencia",
+          "explicacion": "Se escribe con 'x' ('experiencia'), derivado del latín 'experientia'.",
+          "indexStart": 416,
+          "indexEnd": 427
+        },
+        {
+          "error": "ilusion",
+          "sugerencia": "ilusión",
+          "explicacion": "La palabra 'ilusión' es aguda, termina en 'n' y lleva tilde en la 'ó'.",
+          "indexStart": 535,
+          "indexEnd": 542
+        },
+        {
+          "error": "esperiencia",
+          "sugerencia": "experiencia",
+          "explicacion": "Se escribe con 'x' ('experiencia'), derivado del latín 'experientia'.",
+          "indexStart": 557,
+          "indexEnd": 568
+        }
+      ],
+      "filosofia": [
+        {
+          "observacion": "Mencionas a Immanuel Kant pero no utilizas ninguno de sus conceptos fundamentales.",
+          "sugerencia": "Enriquece la exposición contextualizando la tesis de Immanuel Kant con términos clave como: imperativo, categórico, deber."
+        },
+        {
+          "observacion": "Se le atribuye a Kant la tesis empirista pura de que todo conocimiento procede únicamente de la experiencia sensible y los sentidos.",
+          "sugerencia": "Revisa la distinción entre empirismo y racionalismo. Kant sostiene en su 'Crítica de la Razón Pura' que si bien todo conocimiento *comienza* con la experiencia, no todo *procede* de ella (sintetiza ambos postulados)."
+        },
+        {
+          "observacion": "El ensayo presenta una estructura argumentativa débil o inconexa, con escasez de conectores lógicos de causa-consecuencia.",
+          "sugerencia": "Organiza tu discurso estableciendo premisas explícitas unidas por conectores como 'por lo tanto', 'ya que' o 'en consecuencia' para culminar en una conclusión fundamentada."
+        }
+      ],
+      "dua": {
+        "tipo_correccion": "diferenciada",
+        "comentario_final": "\n<div class=\"dua-feedback-box\">\n  <h4>🌟 ¡Vas por buen camino! Sigamos trabajando en ordenar las ideas de tu ensayo.</h4>\n  <p>Hemos analizado tu ensayo utilizando tres lentes diferentes (ortografía, coherencia de filósofos y método de escritura). Aquí tienes una guía visual paso a paso para mejorar tu trabajo:</p>\n  \n  <div class=\"dua-section\">\n    <strong>📋 Resumen de tu avance:</strong>\n    <ul>\n      <li>✍️ Redactaste un texto de <strong>103 palabras</strong>.</li>\n      <li>⚠️ El detector encontró <strong>11 detalles de ortografía o espaciado</strong>.</li>\n      <li>💡 El asesor filosófico tiene <strong>3 sugerencias</strong> para afinar tus argumentos.</li>\n    </ul>\n  </div>\n\n  <div class=\"dua-section\">\n    <strong>🚀 Plan de acción paso a paso para mejorar tu nota:</strong>\n    <ol>\n      <li><strong>Corrige las palabras marcadas en rojo:</strong> Haz clic en las sugerencias del visor de texto para enmendar los acentos u letras omitidas.</li>\n      <li><strong>Ajusta tus ideas de filosofía:</strong> Enriquece la exposición contextualizando la tesis de Immanuel Kant con términos clave como: imperativo, categórico, deber.</li>\n      <li><strong>Próximo paso:</strong> Vuelve a leer tu escrito en voz alta para verificar que las frases sean cortas y fáciles de entender.</li>\n    </ol>\n  </div>\n\n  <div class=\"dua-section suggestion-notes\">\n    <strong>💡 Recomendación de visualización cognitiva:</strong>\n    <p>Para la próxima redacción, te recomendamos dibujar un mapa mental con tu idea principal en el centro y las razones (premisas) a los lados antes de comenzar a escribir.</p>\n  </div>\n</div>\n"
+      }
+    }
+  },
+  {
+    "id": "essay_rrfx9ogd4",
+    "estudiante": "Sofía Landeta",
+    "curso": "4° Medio C",
+    "colegio": "Colegio Alemán",
+    "tipo": "Diferenciado (Con apoyo metodológico)",
+    "ensayo": "Yo creo que la libertad es super importante para el ser humano. El filosofo Nietzsche decia que la vida es voluntad de poder y que debemos superar los valores antiguos para ser libres. Pero a veces es dificil porque la sociedad nos impone reglas. Nietzsche decia que 'el hombre es una cuerda tendida entre la bestia y el superhombre'. Tambien creo que Kant tenia razon cuando decia que todo conocimiento viene de la esperiencia y los sentidos, porque si no tocamos las cosas no podemos saber como son. Por lo tanto, la libertad es una ilusion si no tenemos esperiencia de la realidad.",
+    "calificacion": 1,
+    "fecha": "2026-06-29T03:41:32.193Z",
+    "detalles": {
+      "ortografia": [
+        {
+          "error": "filosofo",
+          "sugerencia": "filósofo",
+          "explicacion": "La palabra 'filósofo' es esdrújula y siempre lleva tilde en la primera 'o'.",
+          "indexStart": 67,
+          "indexEnd": 75
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 86,
+          "indexEnd": 91
+        },
+        {
+          "error": "dificil",
+          "sugerencia": "difícil",
+          "explicacion": "La palabra 'difícil' es llana y no termina en 'n', 's' o vocal, por lo que lleva tilde en la 'í'.",
+          "indexStart": 201,
+          "indexEnd": 208
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 257,
+          "indexEnd": 262
+        },
+        {
+          "error": "Tambien",
+          "sugerencia": "también",
+          "explicacion": "La palabra 'también' es aguda, termina en 'n' y lleva tilde en la segunda 'e'.",
+          "indexStart": 335,
+          "indexEnd": 342
+        },
+        {
+          "error": "tenia",
+          "sugerencia": "tenía",
+          "explicacion": "El verbo 'tener' en pretérito imperfecto lleva tilde en la 'í' por hiato.",
+          "indexStart": 357,
+          "indexEnd": 362
+        },
+        {
+          "error": "razon",
+          "sugerencia": "razón",
+          "explicacion": "Palabra aguda que termina en 'n', por lo tanto lleva tilde en la 'ó'.",
+          "indexStart": 363,
+          "indexEnd": 368
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 376,
+          "indexEnd": 381
+        },
+        {
+          "error": "esperiencia",
+          "sugerencia": "experiencia",
+          "explicacion": "Se escribe con 'x' ('experiencia'), derivado del latín 'experientia'.",
+          "indexStart": 416,
+          "indexEnd": 427
+        },
+        {
+          "error": "ilusion",
+          "sugerencia": "ilusión",
+          "explicacion": "La palabra 'ilusión' es aguda, termina en 'n' y lleva tilde en la 'ó'.",
+          "indexStart": 535,
+          "indexEnd": 542
+        },
+        {
+          "error": "esperiencia",
+          "sugerencia": "experiencia",
+          "explicacion": "Se escribe con 'x' ('experiencia'), derivado del latín 'experientia'.",
+          "indexStart": 557,
+          "indexEnd": 568
+        }
+      ],
+      "filosofia": [
+        {
+          "observacion": "Mencionas a Immanuel Kant pero no utilizas ninguno de sus conceptos fundamentales.",
+          "sugerencia": "Enriquece la exposición contextualizando la tesis de Immanuel Kant con términos clave como: imperativo, categórico, deber."
+        },
+        {
+          "observacion": "Se le atribuye a Kant la tesis empirista pura de que todo conocimiento procede únicamente de la experiencia sensible y los sentidos.",
+          "sugerencia": "Revisa la distinción entre empirismo y racionalismo. Kant sostiene en su 'Crítica de la Razón Pura' que si bien todo conocimiento *comienza* con la experiencia, no todo *procede* de ella (sintetiza ambos postulados)."
+        },
+        {
+          "observacion": "El ensayo presenta una estructura argumentativa débil o inconexa, con escasez de conectores lógicos de causa-consecuencia.",
+          "sugerencia": "Organiza tu discurso estableciendo premisas explícitas unidas por conectores como 'por lo tanto', 'ya que' o 'en consecuencia' para culminar en una conclusión fundamentada."
+        }
+      ],
+      "dua": {
+        "tipo_correccion": "diferenciada",
+        "comentario_final": "\n<div class=\"dua-feedback-box\">\n  <h4>🌟 ¡Vas por buen camino! Sigamos trabajando en ordenar las ideas de tu ensayo.</h4>\n  <p>Hemos analizado tu ensayo utilizando tres lentes diferentes (ortografía, coherencia de filósofos y método de escritura). Aquí tienes una guía visual paso a paso para mejorar tu trabajo:</p>\n  \n  <div class=\"dua-section\">\n    <strong>📋 Resumen de tu avance:</strong>\n    <ul>\n      <li>✍️ Redactaste un texto de <strong>103 palabras</strong>.</li>\n      <li>⚠️ El detector encontró <strong>11 detalles de ortografía o espaciado</strong>.</li>\n      <li>💡 El asesor filosófico tiene <strong>3 sugerencias</strong> para afinar tus argumentos.</li>\n    </ul>\n  </div>\n\n  <div class=\"dua-section\">\n    <strong>🚀 Plan de acción paso a paso para mejorar tu nota:</strong>\n    <ol>\n      <li><strong>Corrige las palabras marcadas en rojo:</strong> Haz clic en las sugerencias del visor de texto para enmendar los acentos u letras omitidas.</li>\n      <li><strong>Ajusta tus ideas de filosofía:</strong> Enriquece la exposición contextualizando la tesis de Immanuel Kant con términos clave como: imperativo, categórico, deber.</li>\n      <li><strong>Próximo paso:</strong> Vuelve a leer tu escrito en voz alta para verificar que las frases sean cortas y fáciles de entender.</li>\n    </ol>\n  </div>\n\n  <div class=\"dua-section suggestion-notes\">\n    <strong>💡 Recomendación de visualización cognitiva:</strong>\n    <p>Para la próxima redacción, te recomendamos dibujar un mapa mental con tu idea principal en el centro y las razones (premisas) a los lados antes de comenzar a escribir.</p>\n  </div>\n</div>\n"
+      }
+    }
+  },
+  {
+    "id": "essay_j1eskq2cx",
+    "estudiante": "Sofía Landeta",
+    "curso": "4° Medio C",
+    "colegio": "Colegio Alemán",
+    "tipo": "Diferenciado (Con apoyo metodológico)",
+    "ensayo": "Yo creo que la libertad es super importante para el ser humano. El filosofo Nietzsche decia que la vida es voluntad de poder y que debemos superar los valores antiguos para ser libres. Pero a veces es dificil porque la sociedad nos impone reglas. Nietzsche decia que 'el hombre es una cuerda tendida entre la bestia y el superhombre'. Tambien creo que Kant tenia razon cuando decia que todo conocimiento viene de la esperiencia y los sentidos, porque si no tocamos las cosas no podemos saber como son. Por lo tanto, la libertad es una ilusion si no tenemos esperiencia de la realidad.",
+    "calificacion": 1,
+    "fecha": "2026-06-29T03:47:33.843Z",
+    "detalles": {
+      "ortografia": [
+        {
+          "error": "filosofo",
+          "sugerencia": "filósofo",
+          "explicacion": "La palabra 'filósofo' es esdrújula y siempre lleva tilde en la primera 'o'.",
+          "indexStart": 67,
+          "indexEnd": 75
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 86,
+          "indexEnd": 91
+        },
+        {
+          "error": "dificil",
+          "sugerencia": "difícil",
+          "explicacion": "La palabra 'difícil' es llana y no termina en 'n', 's' o vocal, por lo que lleva tilde en la 'í'.",
+          "indexStart": 201,
+          "indexEnd": 208
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 257,
+          "indexEnd": 262
+        },
+        {
+          "error": "Tambien",
+          "sugerencia": "también",
+          "explicacion": "La palabra 'también' es aguda, termina en 'n' y lleva tilde en la segunda 'e'.",
+          "indexStart": 335,
+          "indexEnd": 342
+        },
+        {
+          "error": "tenia",
+          "sugerencia": "tenía",
+          "explicacion": "El verbo 'tener' en pretérito imperfecto lleva tilde en la 'í' por hiato.",
+          "indexStart": 357,
+          "indexEnd": 362
+        },
+        {
+          "error": "razon",
+          "sugerencia": "razón",
+          "explicacion": "Palabra aguda que termina en 'n', por lo tanto lleva tilde en la 'ó'.",
+          "indexStart": 363,
+          "indexEnd": 368
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 376,
+          "indexEnd": 381
+        },
+        {
+          "error": "esperiencia",
+          "sugerencia": "experiencia",
+          "explicacion": "Se escribe con 'x' ('experiencia'), derivado del latín 'experientia'.",
+          "indexStart": 416,
+          "indexEnd": 427
+        },
+        {
+          "error": "ilusion",
+          "sugerencia": "ilusión",
+          "explicacion": "La palabra 'ilusión' es aguda, termina en 'n' y lleva tilde en la 'ó'.",
+          "indexStart": 535,
+          "indexEnd": 542
+        },
+        {
+          "error": "esperiencia",
+          "sugerencia": "experiencia",
+          "explicacion": "Se escribe con 'x' ('experiencia'), derivado del latín 'experientia'.",
+          "indexStart": 557,
+          "indexEnd": 568
+        }
+      ],
+      "filosofia": [
+        {
+          "observacion": "Mencionas a Immanuel Kant pero no utilizas ninguno de sus conceptos fundamentales.",
+          "sugerencia": "Enriquece la exposición contextualizando la tesis de Immanuel Kant con términos clave como: imperativo, categórico, deber."
+        },
+        {
+          "observacion": "Se le atribuye a Kant la tesis empirista pura de que todo conocimiento procede únicamente de la experiencia sensible y los sentidos.",
+          "sugerencia": "Revisa la distinción entre empirismo y racionalismo. Kant sostiene en su 'Crítica de la Razón Pura' que si bien todo conocimiento *comienza* con la experiencia, no todo *procede* de ella (sintetiza ambos postulados)."
+        },
+        {
+          "observacion": "El ensayo presenta una estructura argumentativa débil o inconexa, con escasez de conectores lógicos de causa-consecuencia.",
+          "sugerencia": "Organiza tu discurso estableciendo premisas explícitas unidas por conectores como 'por lo tanto', 'ya que' o 'en consecuencia' para culminar en una conclusión fundamentada."
+        }
+      ],
+      "dua": {
+        "tipo_correccion": "diferenciada",
+        "comentario_final": "\n<div class=\"dua-feedback-box\">\n  <h4>🌟 ¡Vas por buen camino! Sigamos trabajando en ordenar las ideas de tu ensayo.</h4>\n  <p>Hemos analizado tu ensayo utilizando tres lentes diferentes (ortografía, coherencia de filósofos y método de escritura). Aquí tienes una guía visual paso a paso para mejorar tu trabajo:</p>\n  \n  <div class=\"dua-section\">\n    <strong>📋 Resumen de tu avance:</strong>\n    <ul>\n      <li>✍️ Redactaste un texto de <strong>103 palabras</strong>.</li>\n      <li>⚠️ El detector encontró <strong>11 detalles de ortografía o espaciado</strong>.</li>\n      <li>💡 El asesor filosófico tiene <strong>3 sugerencias</strong> para afinar tus argumentos.</li>\n    </ul>\n  </div>\n\n  <div class=\"dua-section\">\n    <strong>🚀 Plan de acción paso a paso para mejorar tu nota:</strong>\n    <ol>\n      <li><strong>Corrige las palabras marcadas en rojo:</strong> Haz clic en las sugerencias del visor de texto para enmendar los acentos u letras omitidas.</li>\n      <li><strong>Ajusta tus ideas de filosofía:</strong> Enriquece la exposición contextualizando la tesis de Immanuel Kant con términos clave como: imperativo, categórico, deber.</li>\n      <li><strong>Próximo paso:</strong> Vuelve a leer tu escrito en voz alta para verificar que las frases sean cortas y fáciles de entender.</li>\n    </ol>\n  </div>\n\n  <div class=\"dua-section suggestion-notes\">\n    <strong>💡 Recomendación de visualización cognitiva:</strong>\n    <p>Para la próxima redacción, te recomendamos dibujar un mapa mental con tu idea principal en el centro y las razones (premisas) a los lados antes de comenzar a escribir.</p>\n  </div>\n</div>\n"
+      }
+    }
+  },
+  {
+    "id": "essay_sf3h71mk7",
+    "estudiante": "Carlos Muñoz",
+    "curso": "3° Medio A",
+    "colegio": "Liceo San Pedro Poveda",
+    "tipo": "Estándar",
+    "ensayo": "En este ensayo se analiza la etica de Kant. El filosofo aleman havia propuesto que las acciones humanas deben regirse por el deber. Kant decia que debemos actuar de tal manera que nuestra maxima se convierta en ley universal, lo que el llama el imperativo categorico. Sin embargo, considero que esta postura es muy rigida porque a veces las consecuencias son mas importantes que el deber en si. Por lo tanto, hay situaciones donde mentir para salvar una vida es moralmente correcto, lo que contradice el rigorismo kantiano. En conclusion, la moral no puede ser absoluta y debe evaluar el contexto.",
+    "calificacion": 2.4,
+    "fecha": "2026-06-29T03:53:15.864Z",
+    "detalles": {
+      "ortografia": [
+        {
+          "error": "etica",
+          "sugerencia": "ética",
+          "explicacion": "La palabra 'ética' es esdrújula y siempre lleva tilde en la primera 'e'.",
+          "indexStart": 29,
+          "indexEnd": 34
+        },
+        {
+          "error": "filosofo",
+          "sugerencia": "filósofo",
+          "explicacion": "La palabra 'filósofo' es esdrújula y siempre lleva tilde en la primera 'o'.",
+          "indexStart": 47,
+          "indexEnd": 55
+        },
+        {
+          "error": "aleman",
+          "sugerencia": "alemán",
+          "explicacion": "La palabra 'alemán' es aguda, termina en 'n' y lleva tilde en la 'a'.",
+          "indexStart": 56,
+          "indexEnd": 62
+        },
+        {
+          "error": "havia",
+          "sugerencia": "había",
+          "explicacion": "El verbo 'haber' en pretérito imperfecto lleva 'h' y tilde en la 'í'.",
+          "indexStart": 63,
+          "indexEnd": 68
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 137,
+          "indexEnd": 142
+        },
+        {
+          "error": "maxima",
+          "sugerencia": "máxima",
+          "explicacion": "La palabra 'máxima' es esdrújula y siempre lleva tilde en la primera 'a'.",
+          "indexStart": 188,
+          "indexEnd": 194
+        },
+        {
+          "error": "categorico",
+          "sugerencia": "categórico",
+          "explicacion": "La palabra 'categórico' es esdrújula y siempre lleva tilde en la 'o'.",
+          "indexStart": 256,
+          "indexEnd": 266
+        },
+        {
+          "error": "mas",
+          "sugerencia": "más",
+          "explicacion": "Se escribe 'más' (con tilde) cuando funciona como adverbio de cantidad, a diferencia de la conjunción 'mas' (que equivale a 'pero').",
+          "indexStart": 359,
+          "indexEnd": 362
+        },
+        {
+          "error": "conclusion",
+          "sugerencia": "conclusión",
+          "explicacion": "La palabra 'conclusión' es aguda y termina en 'n', lleva tilde en la 'ó'.",
+          "indexStart": 527,
+          "indexEnd": 537
+        }
+      ],
+      "filosofia": [
+        {
+          "observacion": "El ensayo presenta una estructura argumentativa débil o inconexa, con escasez de conectores lógicos de causa-consecuencia.",
+          "sugerencia": "Organiza tu discurso estableciendo premisas explícitas unidas por conectores como 'por lo tanto', 'ya que' o 'en consecuencia' para culminar en una conclusión fundamentada."
+        }
+      ],
+      "dua": {
+        "tipo_correccion": "estandar",
+        "comentario_final": "\n<div class=\"standard-feedback-box\">\n  <h4>Evaluación Metodológica: Reprobado. Se requiere reestructuración del texto.</h4>\n  <p>El ensayo presentado consta de 101 palabras, evaluado bajo una rúbrica de nivel de exigencia institucional del <strong>60%</strong>.</p>\n  <p><strong>Análisis de Desempeño:</strong> Se identificaron 9 errores de nivel gramatical/ortográfico y 1 observaciones referidas a la coherencia epistemológica o formal de los argumentos filosóficos planteados.</p>\n  <p><strong>Recomendaciones Académicas:</strong> Se aconseja incorporar mayor rigor conceptual en la exposición de las citas doctrinales y utilizar una variedad más amplia de conectores lógicos subordinantes. Asimismo, es prioritario revisar el texto con un corrector lexicográfico antes de su reenvío para eliminar las desviaciones de tildación y concordancia reportadas.</p>\n</div>\n"
+      }
+    }
+  },
+  {
+    "id": "essay_ken8mha8c",
+    "estudiante": "Carlos Muñoz",
+    "curso": "3° Medio A",
+    "colegio": "Liceo San Pedro Poveda",
+    "tipo": "Estándar",
+    "ensayo": "En este ensayo se analiza la etica de Kant. El filosofo aleman havia propuesto que las acciones humanas deben regirse por el deber. Kant decia que debemos actuar de tal manera que nuestra maxima se convierta en ley universal, lo que el llama el imperativo categorico. Sin embargo, considero que esta postura es muy rigida porque a veces las consecuencias son mas importantes que el deber en si. Por lo tanto, hay situaciones donde mentir para salvar una vida es moralmente correcto, lo que contradice el rigorismo kantiano. En conclusion, la moral no puede ser absoluta y debe evaluar el contexto.",
+    "calificacion": 2.4,
+    "fecha": "2026-06-29T03:55:19.731Z",
+    "detalles": {
+      "ortografia": [
+        {
+          "error": "etica",
+          "sugerencia": "ética",
+          "explicacion": "La palabra 'ética' es esdrújula y siempre lleva tilde en la primera 'e'.",
+          "indexStart": 29,
+          "indexEnd": 34
+        },
+        {
+          "error": "filosofo",
+          "sugerencia": "filósofo",
+          "explicacion": "La palabra 'filósofo' es esdrújula y siempre lleva tilde en la primera 'o'.",
+          "indexStart": 47,
+          "indexEnd": 55
+        },
+        {
+          "error": "aleman",
+          "sugerencia": "alemán",
+          "explicacion": "La palabra 'alemán' es aguda, termina en 'n' y lleva tilde en la 'a'.",
+          "indexStart": 56,
+          "indexEnd": 62
+        },
+        {
+          "error": "havia",
+          "sugerencia": "había",
+          "explicacion": "El verbo 'haber' en pretérito imperfecto lleva 'h' y tilde en la 'í'.",
+          "indexStart": 63,
+          "indexEnd": 68
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 137,
+          "indexEnd": 142
+        },
+        {
+          "error": "maxima",
+          "sugerencia": "máxima",
+          "explicacion": "La palabra 'máxima' es esdrújula y siempre lleva tilde en la primera 'a'.",
+          "indexStart": 188,
+          "indexEnd": 194
+        },
+        {
+          "error": "categorico",
+          "sugerencia": "categórico",
+          "explicacion": "La palabra 'categórico' es esdrújula y siempre lleva tilde en la 'o'.",
+          "indexStart": 256,
+          "indexEnd": 266
+        },
+        {
+          "error": "mas",
+          "sugerencia": "más",
+          "explicacion": "Se escribe 'más' (con tilde) cuando funciona como adverbio de cantidad, a diferencia de la conjunción 'mas' (que equivale a 'pero').",
+          "indexStart": 359,
+          "indexEnd": 362
+        },
+        {
+          "error": "conclusion",
+          "sugerencia": "conclusión",
+          "explicacion": "La palabra 'conclusión' es aguda y termina en 'n', lleva tilde en la 'ó'.",
+          "indexStart": 527,
+          "indexEnd": 537
+        }
+      ],
+      "filosofia": [
+        {
+          "observacion": "El ensayo presenta una estructura argumentativa débil o inconexa, con escasez de conectores lógicos de causa-consecuencia.",
+          "sugerencia": "Organiza tu discurso estableciendo premisas explícitas unidas por conectores como 'por lo tanto', 'ya que' o 'en consecuencia' para culminar en una conclusión fundamentada."
+        }
+      ],
+      "dua": {
+        "tipo_correccion": "estandar",
+        "comentario_final": "\n<div class=\"standard-feedback-box\">\n  <h4>Evaluación Metodológica: Reprobado. Se requiere reestructuración del texto.</h4>\n  <p>El ensayo presentado consta de 101 palabras, evaluado bajo una rúbrica de nivel de exigencia institucional del <strong>60%</strong>.</p>\n  <p><strong>Análisis de Desempeño:</strong> Se identificaron 9 errores de nivel gramatical/ortográfico y 1 observaciones referidas a la coherencia epistemológica o formal de los argumentos filosóficos planteados.</p>\n  <p><strong>Recomendaciones Académicas:</strong> Se aconseja incorporar mayor rigor conceptual en la exposición de las citas doctrinales y utilizar una variedad más amplia de conectores lógicos subordinantes. Asimismo, es prioritario revisar el texto con un corrector lexicográfico antes de su reenvío para eliminar las desviaciones de tildación y concordancia reportadas.</p>\n</div>\n"
+      }
+    }
+  },
+  {
+    "id": "essay_kubxcbt2d",
+    "estudiante": "Sofía Landeta",
+    "curso": "4° Medio C",
+    "colegio": "Colegio Alemán",
+    "tipo": "Diferenciado (Con apoyo metodológico)",
+    "ensayo": "Yo creo que la libertad es super importante para el ser humano. El filosofo Nietzsche decia que la vida es voluntad de poder y que debemos superar los valores antiguos para ser libres. Pero a veces es dificil porque la sociedad nos impone reglas. Nietzsche decia que 'el hombre es una cuerda tendida entre la bestia y el superhombre'. Tambien creo que Kant tenia razon cuando decia que todo conocimiento viene de la esperiencia y los sentidos, porque si no tocamos las cosas no podemos saber como son. Por lo tanto, la libertad es una ilusion si no tenemos esperiencia de la realidad.",
+    "calificacion": 1,
+    "fecha": "2026-06-29T04:00:56.364Z",
+    "detalles": {
+      "ortografia": [
+        {
+          "error": "filosofo",
+          "sugerencia": "filósofo",
+          "explicacion": "La palabra 'filósofo' es esdrújula y siempre lleva tilde en la primera 'o'.",
+          "indexStart": 67,
+          "indexEnd": 75
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 86,
+          "indexEnd": 91
+        },
+        {
+          "error": "dificil",
+          "sugerencia": "difícil",
+          "explicacion": "La palabra 'difícil' es llana y no termina en 'n', 's' o vocal, por lo que lleva tilde en la 'í'.",
+          "indexStart": 201,
+          "indexEnd": 208
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 257,
+          "indexEnd": 262
+        },
+        {
+          "error": "Tambien",
+          "sugerencia": "también",
+          "explicacion": "La palabra 'también' es aguda, termina en 'n' y lleva tilde en la segunda 'e'.",
+          "indexStart": 335,
+          "indexEnd": 342
+        },
+        {
+          "error": "tenia",
+          "sugerencia": "tenía",
+          "explicacion": "El verbo 'tener' en pretérito imperfecto lleva tilde en la 'í' por hiato.",
+          "indexStart": 357,
+          "indexEnd": 362
+        },
+        {
+          "error": "razon",
+          "sugerencia": "razón",
+          "explicacion": "Palabra aguda que termina en 'n', por lo tanto lleva tilde en la 'ó'.",
+          "indexStart": 363,
+          "indexEnd": 368
+        },
+        {
+          "error": "decia",
+          "sugerencia": "decía",
+          "explicacion": "El pretérito imperfecto del verbo 'decir' lleva tilde en la 'í' por el hiato vocal.",
+          "indexStart": 376,
+          "indexEnd": 381
+        },
+        {
+          "error": "esperiencia",
+          "sugerencia": "experiencia",
+          "explicacion": "Se escribe con 'x' ('experiencia'), derivado del latín 'experientia'.",
+          "indexStart": 416,
+          "indexEnd": 427
+        },
+        {
+          "error": "ilusion",
+          "sugerencia": "ilusión",
+          "explicacion": "La palabra 'ilusión' es aguda, termina en 'n' y lleva tilde en la 'ó'.",
+          "indexStart": 535,
+          "indexEnd": 542
+        },
+        {
+          "error": "esperiencia",
+          "sugerencia": "experiencia",
+          "explicacion": "Se escribe con 'x' ('experiencia'), derivado del latín 'experientia'.",
+          "indexStart": 557,
+          "indexEnd": 568
+        }
+      ],
+      "filosofia": [
+        {
+          "observacion": "Mencionas a Immanuel Kant pero no utilizas ninguno de sus conceptos fundamentales.",
+          "sugerencia": "Enriquece la exposición contextualizando la tesis de Immanuel Kant con términos clave como: imperativo, categórico, deber."
+        },
+        {
+          "observacion": "Se le atribuye a Kant la tesis empirista pura de que todo conocimiento procede únicamente de la experiencia sensible y los sentidos.",
+          "sugerencia": "Revisa la distinción entre empirismo y racionalismo. Kant sostiene en su 'Crítica de la Razón Pura' que si bien todo conocimiento *comienza* con la experiencia, no todo *procede* de ella (sintetiza ambos postulados)."
+        },
+        {
+          "observacion": "El ensayo presenta una estructura argumentativa débil o inconexa, con escasez de conectores lógicos de causa-consecuencia.",
+          "sugerencia": "Organiza tu discurso estableciendo premisas explícitas unidas por conectores como 'por lo tanto', 'ya que' o 'en consecuencia' para culminar en una conclusión fundamentada."
+        }
+      ],
+      "dua": {
+        "tipo_correccion": "diferenciada",
+        "comentario_final": "\n<div class=\"dua-feedback-box\">\n  <h4>🌟 ¡Vas por buen camino! Sigamos trabajando en ordenar las ideas de tu ensayo.</h4>\n  <p>Hemos analizado tu ensayo utilizando tres lentes diferentes (ortografía, coherencia de filósofos y método de escritura). Aquí tienes una guía visual paso a paso para mejorar tu trabajo:</p>\n  \n  <div class=\"dua-section\">\n    <strong>📋 Resumen de tu avance:</strong>\n    <ul>\n      <li>✍️ Redactaste un texto de <strong>103 palabras</strong>.</li>\n      <li>⚠️ El detector encontró <strong>11 detalles de ortografía o espaciado</strong>.</li>\n      <li>💡 El asesor filosófico tiene <strong>3 sugerencias</strong> para afinar tus argumentos.</li>\n    </ul>\n  </div>\n\n  <div class=\"dua-section\">\n    <strong>🚀 Plan de acción paso a paso para mejorar tu nota:</strong>\n    <ol>\n      <li><strong>Corrige las palabras marcadas en rojo:</strong> Haz clic en las sugerencias del visor de texto para enmendar los acentos u letras omitidas.</li>\n      <li><strong>Ajusta tus ideas de filosofía:</strong> Enriquece la exposición contextualizando la tesis de Immanuel Kant con términos clave como: imperativo, categórico, deber.</li>\n      <li><strong>Próximo paso:</strong> Vuelve a leer tu escrito en voz alta para verificar que las frases sean cortas y fáciles de entender.</li>\n    </ol>\n  </div>\n\n  <div class=\"dua-section suggestion-notes\">\n    <strong>💡 Recomendación de visualización cognitiva:</strong>\n    <p>Para la próxima redacción, te recomendamos dibujar un mapa mental con tu idea principal en el centro y las razones (premisas) a los lados antes de comenzar a escribir.</p>\n  </div>\n</div>\n"
+      }
+    }
+  },
+  {
+    "id": "essay_uf801irgq",
+    "estudiante": "mary",
+    "curso": "4° Medio D",
+    "colegio": "Liceo San Pedro Poveda",
+    "tipo": "Estándar",
+    "ensayo": "¿Cómo saber si es amor? Una mirada al concepto más esquivo de todos\nTodos sabemos, de un modo u otro, qué es el amor. Todos lo hemos sentido o hemos vivido su ausencia y, sin embargo, no logramos ponernos de acuerdo respecto a qué cosa es, o cómo se lo define o cuáles son sus rasgos esenciales. A veces ni siquiera sabemos si es amor lo que sentimos o si es otra cosa, ya que muchas otras emociones pueden confundirse con el amor. ¿Por qué es tan central en nuestra existencia un concepto tan esquivo?\n\nSi buscamos en el diccionario de la Real Academia Española la palabra “amor”, hallaremos definiciones como esta: “Sentimiento intenso del ser humano que, partiendo de su propia insuficiencia, necesita y busca el encuentro y unión con otro ser”; o como esta: “Sentimiento hacia otra persona que naturalmente nos atrae y que, procurando reciprocidad en el deseo de unión, nos completa, alegra y da energía para convivir, comunicarnos y crear”; o una mucho más simple y concisa: “Sentimiento de afecto, inclinación y entrega a alguien o algo”. Son definiciones muy distintas entre sí, pero que tienen en común dos cosas: 1) el amor es un sentimiento, o sea, algo que se siente; y 2) el amor se siente por el otro, es decir, es algo que nos vincula con los demás. Podemos deducir que el amor, en principio, es un sentimiento de vínculo para con el otro.\n\nSemejante conclusión es, sin embargo, muy poco concluyente. Los sentimientos, en general, tienen siempre que ver con los demás, dado que somos criaturas sociales. Tanto la agresión como la empatía juegan un rol importante en la vida social de la humanidad y a cada una le hemos asignado un lugar en nuestras historias, en nuestro imaginario y en nuestra manera de entender el complejo mundo interior que caracteriza a nuestra especie.\n\nDe acuerdo a la ciencia, el amor es el producto de la acción de dos hormonas diferentes sobre el cerebro: la oxitocina y la vasopresina, producidas por el hipotálamo y liberadas por la pituitaria. Ambas hormonas se presentan en grandes cantidades durante los momentos álgidos del amor romántico, y acarrean una sensación de bienestar, satisfacción y gratificación. El objetivo de este mecanismo bien podría ser el establecimiento de lazos continuos en la pareja, para así brindar a la descendencia una mayor base de apoyo y, por lo tanto, mayores chances de éxito vital.\n\nEsta explicación científica puede que sea exacta, pero en realidad dice muy poco sobre lo que es el amor. Reducir a una reacción química un sentimiento que tiene miles de años relatándose, reviviéndose y tratando de describirse en poema tras poema amoroso, padece del mismo inconveniente de cuando se asocia la consciencia a la actividad eléctrica en el cerebro.\n\nLa explicación material y orgánica de un fenómeno psíquico deja poco margen para contemplar sus matices y su complejidad. ¿Es realmente el amor una sensación de bienestar y satisfacción? Habría que preguntárselo al celoso Otelo o a los amantes de Verona, Romeo y Julieta, dispuestos a morir antes que estar el uno sin el otro. La experiencia del amor, pues, no puede reducirse a su explicación fisiológica, tanto como no puede explicarse el paso de la materia organizada a la vida propiamente dicha.\n\nLa complejidad del concepto es tal que puede haber diferentes tipos de amor. Los antiguos griegos distinguían, por ejemplo, entre eros, agape y philia: el amor erótico era el deseo apasionado, típicamente sexual, egocéntrico y egoísta, dependiente de los atributos deseables del objeto amado; el amor agápico era el amor incondicional, reflexivo y generoso, que empuja al amante a darlo todo por el bienestar del amado, y que los cristianos tomaron como modelo para el amor de Dios por todos los fieles; y finalmente el amor filial era aquel que se daba entre los miembros de una familia y entre amigos o compañeros.\n\nAdemás, uno de los grandes tipos de amor es el amor romántico. Este último consiste fundamentalmente en un amor idealizado, puro, de profundos y duraderos sentimientos de pertenencia. Era un modelo de amor muy propio de la lógica cristiana, que privilegiaba el bienestar del alma inmortal por sobre el goce del cuerpo perecedero.\n\nLas consideraciones con que se cuenta el amor, es decir, con las que se lo imagina y, por lo tanto, se lo desea han variado mucho a lo largo de la historia. Esto nos lleva a suponer que el amor quizás sea un concepto cultural a la par que una realidad biológica (una reacción bioquímica) o una realidad psíquica (un sentimiento). Y estos tres elementos conforman, entonces, los límites de lo que es el amor: ese terreno común entre las tres realidades, sin que realmente importe cuál de las tres surgió primero o cuál es, por ende, la “verdadera”.\n\nEl amor es, por lo tanto, un punto específico de encuentro entre tres costados fundamentales de la humanidad: el biológico o corporal, el psíquico o sentimental y el social o cultural. Este es un concepto difícil de enunciar, esquivo a la lógica, porque descansa en sus tres patas de distinta manera: quizá porque aquello que los antiguos griegos distinguían como tres formas distintas de amor no eran más que tres costados de un mismo triángulo.\n\nReferencias:\n\n“Ensayo” en WIkipedia.\n“Amor” en Wikipedia.\n“Amor” en el Diccionario de la Lengua de la Real Academia Española.\n“¿Qué es el amor? Esto es lo que nos dice la ciencia” en El País (España).\n“Love” en Stanford Encyclopedia of Philosophy.\n“Love” en The Encyclopaedia Britannica.",
+    "calificacion": 6,
+    "fecha": "2026-06-29T04:10:36.712Z",
+    "detalles": {
+      "ortografia": [],
+      "filosofia": [
+        {
+          "observacion": "Tu escrito no menciona explícitamente a ningún filósofo de referencia en la discusión de las premisas.",
+          "sugerencia": "Para elevar el nivel formal del ensayo, incorpora citas o doctrinas de filósofos clásicos o contemporáneos (ej. Platón, Kant, Aristóteles, Nietzsche) que robustezcan tu postura."
+        }
+      ],
+      "dua": {
+        "tipo_correccion": "estandar",
+        "comentario_final": "\n<div class=\"standard-feedback-box\">\n  <h4>Evaluación Metodológica: Aprobado con desempeño satisfactorio.</h4>\n  <p>El ensayo presentado consta de 923 palabras, evaluado bajo una rúbrica de nivel de exigencia institucional del <strong>60%</strong>.</p>\n  <p><strong>Análisis de Desempeño:</strong> Se identificaron 0 errores de nivel gramatical/ortográfico y 1 observaciones referidas a la coherencia epistemológica o formal de los argumentos filosóficos planteados.</p>\n  <p><strong>Recomendaciones Académicas:</strong> Se aconseja incorporar mayor rigor conceptual en la exposición de las citas doctrinales y utilizar una variedad más amplia de conectores lógicos subordinantes. Asimismo, es prioritario revisar el texto con un corrector lexicográfico antes de su reenvío para eliminar las desviaciones de tildación y concordancia reportadas.</p>\n</div>\n"
+      }
+    }
+  },
+  {
+    "id": "essay_s3941nnmx",
+    "estudiante": "mary",
+    "curso": "4° Medio D",
+    "colegio": "Liceo San Pedro Poveda",
+    "tipo": "Diferenciado (Con apoyo metodológico)",
+    "ensayo": "¿Cómo saber si es amor? Una mirada al concepto más esquivo de todos\nTodos sabemos, de un modo u otro, qué es el amor. Todos lo hemos sentido o hemos vivido su ausencia y, sin embargo, no logramos ponernos de acuerdo respecto a qué cosa es, o cómo se lo define o cuáles son sus rasgos esenciales. A veces ni siquiera sabemos si es amor lo que sentimos o si es otra cosa, ya que muchas otras emociones pueden confundirse con el amor. ¿Por qué es tan central en nuestra existencia un concepto tan esquivo?\n\nSi buscamos en el diccionario de la Real Academia Española la palabra “amor”, hallaremos definiciones como esta: “Sentimiento intenso del ser humano que, partiendo de su propia insuficiencia, necesita y busca el encuentro y unión con otro ser”; o como esta: “Sentimiento hacia otra persona que naturalmente nos atrae y que, procurando reciprocidad en el deseo de unión, nos completa, alegra y da energía para convivir, comunicarnos y crear”; o una mucho más simple y concisa: “Sentimiento de afecto, inclinación y entrega a alguien o algo”. Son definiciones muy distintas entre sí, pero que tienen en común dos cosas: 1) el amor es un sentimiento, o sea, algo que se siente; y 2) el amor se siente por el otro, es decir, es algo que nos vincula con los demás. Podemos deducir que el amor, en principio, es un sentimiento de vínculo para con el otro.\n\nSemejante conclusión es, sin embargo, muy poco concluyente. Los sentimientos, en general, tienen siempre que ver con los demás, dado que somos criaturas sociales. Tanto la agresión como la empatía juegan un rol importante en la vida social de la humanidad y a cada una le hemos asignado un lugar en nuestras historias, en nuestro imaginario y en nuestra manera de entender el complejo mundo interior que caracteriza a nuestra especie.\n\nDe acuerdo a la ciencia, el amor es el producto de la acción de dos hormonas diferentes sobre el cerebro: la oxitocina y la vasopresina, producidas por el hipotálamo y liberadas por la pituitaria. Ambas hormonas se presentan en grandes cantidades durante los momentos álgidos del amor romántico, y acarrean una sensación de bienestar, satisfacción y gratificación. El objetivo de este mecanismo bien podría ser el establecimiento de lazos continuos en la pareja, para así brindar a la descendencia una mayor base de apoyo y, por lo tanto, mayores chances de éxito vital.\n\nEsta explicación científica puede que sea exacta, pero en realidad dice muy poco sobre lo que es el amor. Reducir a una reacción química un sentimiento que tiene miles de años relatándose, reviviéndose y tratando de describirse en poema tras poema amoroso, padece del mismo inconveniente de cuando se asocia la consciencia a la actividad eléctrica en el cerebro.\n\nLa explicación material y orgánica de un fenómeno psíquico deja poco margen para contemplar sus matices y su complejidad. ¿Es realmente el amor una sensación de bienestar y satisfacción? Habría que preguntárselo al celoso Otelo o a los amantes de Verona, Romeo y Julieta, dispuestos a morir antes que estar el uno sin el otro. La experiencia del amor, pues, no puede reducirse a su explicación fisiológica, tanto como no puede explicarse el paso de la materia organizada a la vida propiamente dicha.\n\nLa complejidad del concepto es tal que puede haber diferentes tipos de amor. Los antiguos griegos distinguían, por ejemplo, entre eros, agape y philia: el amor erótico era el deseo apasionado, típicamente sexual, egocéntrico y egoísta, dependiente de los atributos deseables del objeto amado; el amor agápico era el amor incondicional, reflexivo y generoso, que empuja al amante a darlo todo por el bienestar del amado, y que los cristianos tomaron como modelo para el amor de Dios por todos los fieles; y finalmente el amor filial era aquel que se daba entre los miembros de una familia y entre amigos o compañeros.\n\nAdemás, uno de los grandes tipos de amor es el amor romántico. Este último consiste fundamentalmente en un amor idealizado, puro, de profundos y duraderos sentimientos de pertenencia. Era un modelo de amor muy propio de la lógica cristiana, que privilegiaba el bienestar del alma inmortal por sobre el goce del cuerpo perecedero.\n\nLas consideraciones con que se cuenta el amor, es decir, con las que se lo imagina y, por lo tanto, se lo desea han variado mucho a lo largo de la historia. Esto nos lleva a suponer que el amor quizás sea un concepto cultural a la par que una realidad biológica (una reacción bioquímica) o una realidad psíquica (un sentimiento). Y estos tres elementos conforman, entonces, los límites de lo que es el amor: ese terreno común entre las tres realidades, sin que realmente importe cuál de las tres surgió primero o cuál es, por ende, la “verdadera”.\n\nEl amor es, por lo tanto, un punto específico de encuentro entre tres costados fundamentales de la humanidad: el biológico o corporal, el psíquico o sentimental y el social o cultural. Este es un concepto difícil de enunciar, esquivo a la lógica, porque descansa en sus tres patas de distinta manera: quizá porque aquello que los antiguos griegos distinguían como tres formas distintas de amor no eran más que tres costados de un mismo triángulo.\n\nReferencias:\n\n“Ensayo” en WIkipedia.\n“Amor” en Wikipedia.\n“Amor” en el Diccionario de la Lengua de la Real Academia Española.\n“¿Qué es el amor? Esto es lo que nos dice la ciencia” en El País (España).\n“Love” en Stanford Encyclopedia of Philosophy.\n“Love” en The Encyclopaedia Britannica.",
+    "calificacion": 6.2,
+    "fecha": "2026-06-29T04:12:48.706Z",
+    "detalles": {
+      "ortografia": [],
+      "filosofia": [
+        {
+          "observacion": "Tu escrito no menciona explícitamente a ningún filósofo de referencia en la discusión de las premisas.",
+          "sugerencia": "Para elevar el nivel formal del ensayo, incorpora citas o doctrinas de filósofos clásicos o contemporáneos (ej. Platón, Kant, Aristóteles, Nietzsche) que robustezcan tu postura."
+        }
+      ],
+      "dua": {
+        "tipo_correccion": "diferenciada",
+        "comentario_final": "\n<div class=\"dua-feedback-box\">\n  <h4>🌟 ¡Excelente esfuerzo! Has logrado estructurar tus ideas filosóficas.</h4>\n  <p>Hemos analizado tu ensayo utilizando tres lentes diferentes (ortografía, coherencia de filósofos y método de escritura). Aquí tienes una guía visual paso a paso para mejorar tu trabajo:</p>\n  \n  <div class=\"dua-section\">\n    <strong>📋 Resumen de tu avance:</strong>\n    <ul>\n      <li>✍️ Redactaste un texto de <strong>923 palabras</strong>.</li>\n      <li>⚠️ El detector encontró <strong>0 detalles de ortografía o espaciado</strong>.</li>\n      <li>💡 El asesor filosófico tiene <strong>1 sugerencias</strong> para afinar tus argumentos.</li>\n    </ul>\n  </div>\n\n  <div class=\"dua-section\">\n    <strong>🚀 Plan de acción paso a paso para mejorar tu nota:</strong>\n    <ol>\n      <li><strong>Ortografía impecable:</strong> ¡No se detectaron errores ortográficos comunes! Excelente trabajo de escritura.</li>\n      <li><strong>Ajusta tus ideas de filosofía:</strong> Para elevar el nivel formal del ensayo, incorpora citas o doctrinas de filósofos clásicos o contemporáneos (ej. Platón, Kant, Aristóteles, Nietzsche) que robustezcan tu postura.</li>\n      <li><strong>Próximo paso:</strong> Vuelve a leer tu escrito en voz alta para verificar que las frases sean cortas y fáciles de entender.</li>\n    </ol>\n  </div>\n\n  <div class=\"dua-section suggestion-notes\">\n    <strong>💡 Recomendación de visualización cognitiva:</strong>\n    <p>Para la próxima redacción, te recomendamos dibujar un mapa mental con tu idea principal en el centro y las razones (premisas) a los lados antes de comenzar a escribir.</p>\n  </div>\n</div>\n"
+      }
+    }
+  },
+  {
+    "id": "essay_9ds80rhtp",
+    "estudiante": "mary",
+    "curso": "4° Medio D",
+    "colegio": "Colegio Alemán",
+    "tipo": "Estándar",
+    "ensayo": "¿Cómo saber si es amor? Una mirada al concepto más esquivo de todos\nTodos sabemos, de un modo u otro, qué es el amor. Todos lo hemos sentido o hemos vivido su ausencia y, sin embargo, no logramos ponernos de acuerdo respecto a qué cosa es, o cómo se lo define o cuáles son sus rasgos esenciales. A veces ni siquiera sabemos si es amor lo que sentimos o si es otra cosa, ya que muchas otras emociones pueden confundirse con el amor. ¿Por qué es tan central en nuestra existencia un concepto tan esquivo?\n\nSi buscamos en el diccionario de la Real Academia Española la palabra “amor”, hallaremos definiciones como esta: “Sentimiento intenso del ser humano que, partiendo de su propia insuficiencia, necesita y busca el encuentro y unión con otro ser”; o como esta: “Sentimiento hacia otra persona que naturalmente nos atrae y que, procurando reciprocidad en el deseo de unión, nos completa, alegra y da energía para convivir, comunicarnos y crear”; o una mucho más simple y concisa: “Sentimiento de afecto, inclinación y entrega a alguien o algo”. Son definiciones muy distintas entre sí, pero que tienen en común dos cosas: 1) el amor es un sentimiento, o sea, algo que se siente; y 2) el amor se siente por el otro, es decir, es algo que nos vincula con los demás. Podemos deducir que el amor, en principio, es un sentimiento de vínculo para con el otro.\n\nSemejante conclusión es, sin embargo, muy poco concluyente. Los sentimientos, en general, tienen siempre que ver con los demás, dado que somos criaturas sociales. Tanto la agresión como la empatía juegan un rol importante en la vida social de la humanidad y a cada una le hemos asignado un lugar en nuestras historias, en nuestro imaginario y en nuestra manera de entender el complejo mundo interior que caracteriza a nuestra especie.\n\nDe acuerdo a la ciencia, el amor es el producto de la acción de dos hormonas diferentes sobre el cerebro: la oxitocina y la vasopresina, producidas por el hipotálamo y liberadas por la pituitaria. Ambas hormonas se presentan en grandes cantidades durante los momentos álgidos del amor romántico, y acarrean una sensación de bienestar, satisfacción y gratificación. El objetivo de este mecanismo bien podría ser el establecimiento de lazos continuos en la pareja, para así brindar a la descendencia una mayor base de apoyo y, por lo tanto, mayores chances de éxito vital.\n\nEsta explicación científica puede que sea exacta, pero en realidad dice muy poco sobre lo que es el amor. Reducir a una reacción química un sentimiento que tiene miles de años relatándose, reviviéndose y tratando de describirse en poema tras poema amoroso, padece del mismo inconveniente de cuando se asocia la consciencia a la actividad eléctrica en el cerebro.\n\nLa explicación material y orgánica de un fenómeno psíquico deja poco margen para contemplar sus matices y su complejidad. ¿Es realmente el amor una sensación de bienestar y satisfacción? Habría que preguntárselo al celoso Otelo o a los amantes de Verona, Romeo y Julieta, dispuestos a morir antes que estar el uno sin el otro. La experiencia del amor, pues, no puede reducirse a su explicación fisiológica, tanto como no puede explicarse el paso de la materia organizada a la vida propiamente dicha.\n\nLa complejidad del concepto es tal que puede haber diferentes tipos de amor. Los antiguos griegos distinguían, por ejemplo, entre eros, agape y philia: el amor erótico era el deseo apasionado, típicamente sexual, egocéntrico y egoísta, dependiente de los atributos deseables del objeto amado; el amor agápico era el amor incondicional, reflexivo y generoso, que empuja al amante a darlo todo por el bienestar del amado, y que los cristianos tomaron como modelo para el amor de Dios por todos los fieles; y finalmente el amor filial era aquel que se daba entre los miembros de una familia y entre amigos o compañeros.\n\nAdemás, uno de los grandes tipos de amor es el amor romántico. Este último consiste fundamentalmente en un amor idealizado, puro, de profundos y duraderos sentimientos de pertenencia. Era un modelo de amor muy propio de la lógica cristiana, que privilegiaba el bienestar del alma inmortal por sobre el goce del cuerpo perecedero.\n\nLas consideraciones con que se cuenta el amor, es decir, con las que se lo imagina y, por lo tanto, se lo desea han variado mucho a lo largo de la historia. Esto nos lleva a suponer que el amor quizás sea un concepto cultural a la par que una realidad biológica (una reacción bioquímica) o una realidad psíquica (un sentimiento). Y estos tres elementos conforman, entonces, los límites de lo que es el amor: ese terreno común entre las tres realidades, sin que realmente importe cuál de las tres surgió primero o cuál es, por ende, la “verdadera”.\n\nEl amor es, por lo tanto, un punto específico de encuentro entre tres costados fundamentales de la humanidad: el biológico o corporal, el psíquico o sentimental y el social o cultural. Este es un concepto difícil de enunciar, esquivo a la lógica, porque descansa en sus tres patas de distinta manera: quizá porque aquello que los antiguos griegos distinguían como tres formas distintas de amor no eran más que tres costados de un mismo triángulo.\n\nReferencias:\n\n“Ensayo” en WIkipedia.\n“Amor” en Wikipedia.\n“Amor” en el Diccionario de la Lengua de la Real Academia Española.\n“¿Qué es el amor? Esto es lo que nos dice la ciencia” en El País (España).\n“Love” en Stanford Encyclopedia of Philosophy.\n“Love” en The Encyclopaedia Britannica.",
+    "calificacion": 6.3,
+    "fecha": "2026-06-29T04:13:53.274Z",
+    "detalles": {
+      "ortografia": [],
+      "filosofia": [
+        {
+          "observacion": "Tu escrito no menciona explícitamente a ningún filósofo de referencia en la discusión de las premisas.",
+          "sugerencia": "Para elevar el nivel formal del ensayo, incorpora citas o doctrinas de filósofos clásicos o contemporáneos (ej. Platón, Kant, Aristóteles, Nietzsche) que robustezcan tu postura."
+        }
+      ],
+      "dua": {
+        "tipo_correccion": "estandar",
+        "comentario_final": "\n<div class=\"standard-feedback-box\">\n  <h4>Evaluación Metodológica: Aprobado con desempeño satisfactorio.</h4>\n  <p>El ensayo presentado consta de 923 palabras, evaluado bajo una rúbrica de nivel de exigencia institucional del <strong>45%</strong>.</p>\n  <p><strong>Análisis de Desempeño:</strong> Se identificaron 0 errores de nivel gramatical/ortográfico y 1 observaciones referidas a la coherencia epistemológica o formal de los argumentos filosóficos planteados.</p>\n  <p><strong>Recomendaciones Académicas:</strong> Se aconseja incorporar mayor rigor conceptual en la exposición de las citas doctrinales y utilizar una variedad más amplia de conectores lógicos subordinantes. Asimismo, es prioritario revisar el texto con un corrector lexicográfico antes de su reenvío para eliminar las desviaciones de tildación y concordancia reportadas.</p>\n</div>\n"
+      }
+    }
+  },
+  {
+    "id": "essay_rm4ezkrip",
+    "estudiante": "Amatista Decker",
+    "curso": "2° Medio A",
+    "colegio": "Colegio Alemán",
+    "tipo": "Estándar",
+    "ensayo": "Cada año, millones de personas pierden todo en cuestión de segundos. Los desastres naturales no son sólo fenómenos climáticos, sino también factores que contribuyen a la pobreza. Debido a la falta de alternativas económicas, las personas con bajos ingresos viven en terrenos inestables y en condiciones de vivienda precarias. Un desastre natural destruye muchas cosas, como por ejemplo hogares, y sin los recursos necesarios para reconstruir, las familias quedan atrapadas en la pobreza.\n\nEsto nos lleva a la interesante pregunta: \"¿Los desastres naturales exacerban la desigualdad social a nivel mundial?\". Desde mi perspectiva, sí, los desastres naturales empeoran las desigualdades sociales existentes, generando una mayor desigualdad.\n\nEn primer lugar, los desastres naturales afectan principalmente a las personas pobres y a los trabajadores autónomos, dejándolos sin alimentos ni dinero para sobrevivir.\nLos trabajadores pobres viven con salarios bajos que apenas les alcanzan para subsistir, ya que no pueden pagar un seguro debido a los altos precios y gastan lo poco que ganan en necesidades básicas, lo que les impide ahorrar. Por lo tanto, un desastre natural podría destruir de una todo lo que tienen. Un claro ejemplo es cuando llueve mucho en Santiago, la mayoría de la gente con pocos recursos y casas con malas infraestructuras, sufren de inundaciones. \n\nPor otro lado, los desastres naturales impactan a todos por igual y destruyen más riqueza en las clases altas.\nLa naturaleza no decide a quién afectar, por ejemplo un huracán o un terremoto destruye la infraestructura de todo un lugar, afectando tanto a zonas residenciales exclusivas como a barrios vulnerables. De hecho económicamente, las clases altas y las empresas sufren pérdidas financieras muchísimo mayores porque el valor de sus propiedades, vehículos etc es bastante más alto. \n\nA partir de esto, si bien los ricos pierden más dinero en términos de cantidad, el impacto en sus vidas es bajísimo, porque cuentan con mayor seguridad y una mayor facilidad en la reconstrucción. Una mansión destruida está respaldada por seguros privados que permiten recuperar sin caer en ningún tipo de pobreza. En cambio, para una familia vulnerable, la pérdida de una vivienda significa y representa todo lo que tienen para subsistir. La verdadera desigualdad no se mide en el costo de lo destruido, sino en cuántas generaciones le cuesta a cada grupo social volver a estabilizarse económicamente. \nPara concluir se puede decir que los desastres naturales no son eventos neutros, sino que actúan como amplificadores de las crisis sociales ya existentes. Debido a que a pesar de que el daño material sea mayor para quienes están en situación de vulnerabilidad, pero el costo de lo dañado sea muchísimo mayor para las clases altas, el impacto es altísimo para los pobres y superficial para los ricos.",
+    "calificacion": 5.8,
+    "fecha": "2026-06-30T13:55:13.826Z",
+    "detalles": {
+      "ortografia": [],
+      "filosofia": [
+        {
+          "observacion": "Tu escrito no menciona explícitamente a ningún filósofo de referencia en la discusión de las premisas.",
+          "sugerencia": "Para elevar el nivel formal del ensayo, incorpora citas o doctrinas de filósofos clásicos o contemporáneos (ej. Platón, Kant, Aristóteles, Nietzsche) que robustezcan tu postura."
+        }
+      ],
+      "dua": {
+        "tipo_correccion": "estandar",
+        "comentario_final": "\n<div class=\"standard-feedback-box\">\n  <h4>Evaluación Metodológica: Aprobado con desempeño satisfactorio.</h4>\n  <p>El ensayo presentado consta de 450 palabras, evaluado bajo una rúbrica de nivel de exigencia institucional del <strong>45%</strong>.</p>\n  <p><strong>Análisis de Desempeño:</strong> Se identificaron 0 errores de nivel gramatical/ortográfico y 1 observaciones referidas a la coherencia epistemológica o formal de los argumentos filosóficos planteados.</p>\n  <p><strong>Recomendaciones Académicas:</strong> Se aconseja incorporar mayor rigor conceptual en la exposición de las citas doctrinales y utilizar una variedad más amplia de conectores lógicos subordinantes. Asimismo, es prioritario revisar el texto con un corrector lexicográfico antes de su reenvío para eliminar las desviaciones de tildación y concordancia reportadas.</p>\n</div>\n"
+      }
+    }
+  }
+]
