@@ -570,15 +570,7 @@ io.on('connection', (socket) => {
       });
 
       // Broadcast update to teacher panel if connected
-      io.emit('essay_submitted_notification', {
-        id: report.id,
-        estudiante: report.estudiante,
-        curso: report.curso,
-        colegio: report.colegio,
-        tipo: report.tipo,
-        calificacion: report.calificacion,
-        fecha: report.fecha
-      });
+      io.emit('essay_submitted_notification', report);
 
     } catch (err) {
       console.error("Error processing essay:", err);
