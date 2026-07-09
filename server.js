@@ -24,9 +24,27 @@ if (!fs.existsSync(dataDir)) {
 }
 const DB_PATH = path.join(dataDir, 'essays.json');
 
-// Ensure essays database file exists
+// Ensure essays database file exists and is seeded if empty
+const seedPath = path.join(__dirname, 'data_seed.json');
 if (!fs.existsSync(DB_PATH)) {
-  fs.writeFileSync(DB_PATH, '[]', 'utf8');
+  if (fs.existsSync(seedPath)) {
+    console.log("Seeding database from data_seed.json");
+    fs.copyFileSync(seedPath, DB_PATH);
+  } else {
+    fs.writeFileSync(DB_PATH, '[]', 'utf8');
+  }
+} else {
+  try {
+    const fileContent = fs.readFileSync(DB_PATH, 'utf8').trim();
+    if (fileContent === '' || fileContent === '[]') {
+      if (fs.existsSync(seedPath)) {
+        console.log("Seeding empty database from data_seed.json");
+        fs.copyFileSync(seedPath, DB_PATH);
+      }
+    }
+  } catch (err) {
+    console.error("Error checking or seeding empty database:", err);
+  }
 }
 
 // Serialization queue for database writes
@@ -44,6 +62,8 @@ async function saveEssay(essayData) {
     } catch (err) {
       console.error("Error writing to database:", err);
     }
+  }).catch(err => {
+    console.error("Database queue critical error:", err);
   });
   return writeQueue;
 }
