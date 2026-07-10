@@ -276,23 +276,30 @@ const filosofosDisponibles = {
   }
 };
 
+function cleanText(t) {
+  if (!t) return "";
+  return t.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+}
+
 function evaluarFilosofia(texto) {
   const report = [];
-  const lowerText = texto.toLowerCase();
+  const normalizedText = cleanText(texto);
   let filosofosMencionados = 0;
 
   // Verify thinkers and their concepts
   Object.keys(filosofosDisponibles).forEach(key => {
     const info = filosofosDisponibles[key];
-    const regexName = new RegExp(`\\b${key}\\b`, 'i');
+    const cleanKey = cleanText(key);
+    const regexName = new RegExp(`\\b${cleanKey}\\b`, 'i');
     
-    if (regexName.test(lowerText)) {
+    if (regexName.test(normalizedText)) {
       filosofosMencionados++;
       
       // Check concepts
       const conceptosEncontrados = info.conceptos.filter(concepto => {
-        const regexCon = new RegExp(`\\b${concepto}s?\\b`, 'i');
-        return regexCon.test(lowerText);
+        const cleanConcepto = cleanText(concepto);
+        const regexCon = new RegExp(`\\b${cleanConcepto}s?\\b`, 'i');
+        return regexCon.test(normalizedText);
       });
 
       if (conceptosEncontrados.length === 0) {
@@ -304,7 +311,7 @@ function evaluarFilosofia(texto) {
 
       // Check inconsistencies
       info.inconsistencias.forEach(inc => {
-        if (inc.trigger.test(lowerText)) {
+        if (inc.trigger.test(normalizedText)) {
           report.push({
             observacion: inc.observacion,
             sugerencia: inc.sugerencia
@@ -327,15 +334,15 @@ function evaluarFilosofia(texto) {
     /\ben consecuencia\b/i,
     /\bdado que\b/i,
     /\bya que\b/i,
-    /\ben conclusión\b/i,
-    /\basí pues\b/i,
+    /\ben conclusion\b/i,
+    /\basi pues\b/i,
     /\bdebido a (que)?\b/i,
     /\bpor lo cual\b/i
   ];
 
   let matchesConectores = 0;
   conectoresArgumento.forEach(regex => {
-    if (regex.test(lowerText)) {
+    if (regex.test(normalizedText)) {
       matchesConectores++;
     }
   });

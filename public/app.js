@@ -1,5 +1,4 @@
-// Connect to Socket.io server
-const socket = io();
+const socket = window.location.protocol === 'file:' ? io('http://localhost:3000') : io();
 
 // Constants & Globals
 let currentReport = null;
@@ -41,6 +40,9 @@ window.addEventListener('DOMContentLoaded', () => {
   updateCollegeInfo();
   loadDemos();
 
+  // Restore form data from localStorage if available
+  restoreStudentFormFromLocalStorage();
+
   // Listen to WebSocket progress updates
   socket.on('status_update', handleQueueStatusUpdate);
 
@@ -50,6 +52,41 @@ window.addEventListener('DOMContentLoaded', () => {
       allEssays.push(essayInfo);
       renderTeacherDashboard();
     }
+  });
+
+  // Connection status events
+  socket.on('connect', () => {
+    const statusBox = document.getElementById('connection-status');
+    if (statusBox) {
+      statusBox.className = "text-xs text-textMuted flex items-center gap-2";
+      statusBox.innerHTML = `<i class="fa-solid fa-cloud-arrow-up text-successMain"></i> Conexión activa`;
+    }
+    const submitBtn = document.getElementById('btn-submit');
+    if (submitBtn) submitBtn.removeAttribute('disabled');
+  });
+
+  socket.on('disconnect', () => {
+    const statusBox = document.getElementById('connection-status');
+    if (statusBox) {
+      statusBox.className = "text-xs text-errorMain flex items-center gap-2 animate-pulse";
+      statusBox.innerHTML = `<i class="fa-solid fa-cloud-arrow-down text-errorMain"></i> Sin conexión`;
+    }
+    const submitBtn = document.getElementById('btn-submit');
+    if (submitBtn) submitBtn.setAttribute('disabled', 'true');
+  });
+
+  // Listen for input changes to save to localStorage
+  const nameInput = document.getElementById('student-name');
+  if (nameInput) nameInput.addEventListener('input', saveStudentFormToLocalStorage);
+  
+  const courseInput = document.getElementById('student-course');
+  if (courseInput) courseInput.addEventListener('change', saveStudentFormToLocalStorage);
+  
+  const collegeInput = document.getElementById('student-college');
+  if (collegeInput) collegeInput.addEventListener('change', saveStudentFormToLocalStorage);
+  
+  document.getElementsByName('student-type').forEach(radio => {
+    radio.addEventListener('change', saveStudentFormToLocalStorage);
   });
 
   // Event delegation listener for spelling highlights in the viewer
@@ -239,6 +276,63 @@ function loadSimulationCase(caseId) {
   editor.value = foundCase.ensayo;
   handleEditorInput();
   updateCollegeInfo();
+  
+  // Save restored case details to local storage
+  saveStudentFormToLocalStorage();
+}
+
+function saveStudentFormToLocalStorage() {
+  const name = document.getElementById('student-name').value;
+  const curso = document.getElementById('student-course').value;
+  const collegeSelect = document.getElementById('student-college');
+  const colegio = collegeSelect ? collegeSelect.value : "";
+  
+  let type = "Estándar";
+  const radios = document.getElementsByName('student-type');
+  for (let i = 0; i < radios.length; i++) {
+    if (radios[i].checked) {
+      type = radios[i].value;
+      break;
+    }
+  }
+
+  const studentData = { name, curso, colegio, type };
+  localStorage.setItem('studentFormState', JSON.stringify(studentData));
+}
+
+function restoreStudentFormFromLocalStorage() {
+  try {
+    const saved = localStorage.getItem('studentFormState');
+    if (!saved) return;
+    const data = JSON.parse(saved);
+    
+    if (data.name) {
+      const nameInput = document.getElementById('student-name');
+      if (nameInput) nameInput.value = data.name;
+    }
+    if (data.curso) {
+      const courseSelect = document.getElementById('student-course');
+      if (courseSelect) courseSelect.value = data.curso;
+    }
+    if (data.colegio) {
+      const collegeSelect = document.getElementById('student-college');
+      if (collegeSelect) {
+        collegeSelect.value = data.colegio;
+        updateCollegeInfo();
+      }
+    }
+    if (data.type) {
+      const radios = document.getElementsByName('student-type');
+      for (let i = 0; i < radios.length; i++) {
+        if (radios[i].value === data.type) {
+          radios[i].checked = true;
+          toggleDuaRecommendation(data.type.includes('Diferenciado') || data.type.includes('dificultades'));
+        }
+      }
+    }
+  } catch (err) {
+    console.warn("Could not restore student form from localStorage:", err);
+  }
 }
 
 // ==========================================
@@ -246,6 +340,11 @@ function loadSimulationCase(caseId) {
 // ==========================================
 
 function submitEssay() {
+  if (!socket.connected) {
+    alert("No hay conexión activa con el servidor de agentes. Por favor, verifica que el servidor de Node esté corriendo.");
+    return;
+  }
+
   const name = document.getElementById('student-name').value.trim();
   const curso = document.getElementById('student-course').value;
   const colegio = document.getElementById('student-college').value;
@@ -361,38 +460,54 @@ function handleQueueStatusUpdate(data) {
 function displayReport(report) {
   currentReport = report;
 
-  // Set general information fields
-  document.getElementById('rep-student').innerText = report.estudiante;
-  document.getElementById('rep-course').innerText = report.curso;
-  document.getElementById('rep-college').innerText = report.colegio;
-  document.getElementById('rep-type').innerText = (report.tipo.includes('Diferenciado') || report.tipo.includes('dificultades')) ? 'Diferenciado (DUA)' : 'Estándar';
-  
-  // Format ISO Date
-  const dateObj = new Date(report.fecha);
-  document.getElementById('rep-date').innerText = dateObj.toLocaleString('es-CL');
+  try {
+    // Set general information fields
+    document.getElementById('rep-student').innerText = report.estudiante || '—';
+    document.getElementById('rep-course').innerText = report.curso || '—';
+    document.getElementById('rep-college').innerText = report.colegio || '—';
+    document.getElementById('rep-type').innerText = ((report.tipo || '').includes('Diferenciado') || (report.tipo || '').includes('dificultades')) ? 'Diferenciado (DUA)' : 'Estándar';
+    
+    // Format ISO Date
+    const dateObj = new Date(report.fecha);
+    document.getElementById('rep-date').innerText = isNaN(dateObj) ? '—' : dateObj.toLocaleString('es-CL');
 
-  // Set grade gauge
-  document.getElementById('rep-grade').innerText = report.calificacion.toFixed(1);
+    // Set grade gauge
+    document.getElementById('rep-grade').innerText = typeof report.calificacion === 'number' ? report.calificacion.toFixed(1) : '—';
 
-  // Set tab details
-  renderInteractiveViewer(report.ensayo, report.detalles.ortografia);
-  renderOrthographyList(report.detalles.ortografia);
-  renderPhilosophyList(report.detalles.filosofia);
-  renderDuaComment(report.detalles.dua);
+    // Set tab details — safely fallback if detalles is missing
+    const detalles = report.detalles || {};
+    renderInteractiveViewer(report.ensayo || '', detalles.ortografia || []);
+    renderOrthographyList(detalles.ortografia || []);
+    renderPhilosophyList(detalles.filosofia || []);
+    renderDuaComment(detalles.dua || { comentario_final: '<p class="text-textMuted">Sin información metodológica disponible.</p>' });
 
-  // Default to Viewer Tab
-  switchReportTab('tab-viewer');
+    // Default to Viewer Tab
+    switchReportTab('tab-viewer');
 
-  // Open Report Modal
-  const modal = document.getElementById('report-modal');
-  modal.classList.remove('hide');
-  modal.setAttribute('aria-hidden', 'false');
+    // Open Report Modal
+    const modal = document.getElementById('report-modal');
+    modal.classList.remove('hide');
+    modal.setAttribute('aria-hidden', 'false');
+  } catch (err) {
+    console.error('Error al renderizar el reporte:', err);
+    alert('Ocurrió un error al mostrar los detalles del ensayo. Revisa la consola para más información.');
+  }
 }
+
+// Track if report was opened from teacher panel
+let _reportOpenedFromTeacher = false;
 
 function closeReportModal() {
   const modal = document.getElementById('report-modal');
   modal.classList.add('hide');
   modal.setAttribute('aria-hidden', 'true');
+  // If report was opened from teacher panel, restore teacher dashboard
+  if (_reportOpenedFromTeacher) {
+    _reportOpenedFromTeacher = false;
+    const teacherModal = document.getElementById('teacher-modal');
+    teacherModal.classList.remove('hide');
+    teacherModal.setAttribute('aria-hidden', 'false');
+  }
 }
 
 function switchReportTab(tabId) {
@@ -527,7 +642,8 @@ function renderDuaComment(dua) {
 
 // HTML Entity escaper utility
 function escapeHtml(unsafe) {
-  return unsafe
+  if (unsafe === undefined || unsafe === null) return "";
+  return String(unsafe)
     .replace(/&/g, "&amp;")
     .replace(/</g, "&lt;")
     .replace(/>/g, "&gt;")
@@ -640,7 +756,7 @@ async function fetchTeacherEssays() {
   if (!teacherToken) return;
 
   try {
-    const res = await fetch('/api/essays', {
+    const res = await fetch(`/api/essays?_=${Date.now()}`, {
       headers: {
         'Authorization': teacherToken
       }
@@ -767,7 +883,17 @@ function renderTeacherTable(essaysList) {
 window.viewDetailedCorrection = function(essayId) {
   // Find full essay details
   const essay = allEssays.find(e => e.id === essayId);
-  if (!essay) return;
+  if (!essay) {
+    console.warn('No se encontró el ensayo con ID:', essayId);
+    return;
+  }
+
+  // Temporarily hide teacher modal to avoid z-index conflicts
+  // (report modal is z-[60], teacher is z-50, but we track state to restore)
+  _reportOpenedFromTeacher = true;
+  const teacherModal = document.getElementById('teacher-modal');
+  teacherModal.classList.add('hide');
+  teacherModal.setAttribute('aria-hidden', 'true');
 
   // Render report & open modal
   displayReport(essay);
